@@ -1,0 +1,1294 @@
+TEXT,start,end,sentiment,confidence
+Laurel.,1437,2237,NEUTRAL,0.718990684
+"Despite the chaos and confusion in our world, I see winds of hope blowing around the globe.",4237,11457,POSITIVE,0.778505623
+It is a historic meeting.,11547,13617,POSITIVE,0.738308966
+Kim Jongun has become the first North Korean leader to visit the South Sea since the Korean War.,13677,20107,NEUTRAL,0.549065828
+"Families split either side of the Ethiopian Eritrean border, finally able to speak to each other for the first time in decades.",20185,27437,NEUTRAL,0.600580394
+Farright candidate Zaya Bolsonaro has won Brazil's presidential race.,28237,33552,NEUTRAL,0.631053329
+Zuma will step down as South Africa's president.,33657,36697,NEUTRAL,0.767852545
+Does this house want to deliver brexit?,36805,40487,NEUTRAL,0.583879113
+The Irish people have voted in favor of scrapping a constitutional ban on abortion.,43537,48612,NEUTRAL,0.751503527
+This is about women taking their rightful place in Irish society.,48687,52332,NEUTRAL,0.821338177
+"Finally, a Chinese researcher claimed says help make the world's first births of genetically altered humans.",52422,58647,NEUTRAL,0.819054842
+It's very disturbing.,58692,59787,NEGATIVE,0.929419219
+It's inappropriate.,59862,60777,NEGATIVE,0.879816234
+The data analysis firm linked to the Trump campaign retained the personal information of more than 50 million users.,60807,67272,NEUTRAL,0.786278188
+"We didn't take a broad enough view of our responsibility, and that was a big mistake.",67317,72287,NEGATIVE,0.902547717
+17 people killed.,78187,79962,NEGATIVE,0.866980553
+Connection with a mass shooting at a Florida synagogue in Pittsburgh.,80037,83322,NEGATIVE,0.788992822
+The gun nights and fire during morning.,83367,85282,NEUTRAL,0.755631447
+And I don't want prayers.,85360,86862,NEGATIVE,0.760682881
+I don't want thoughts.,87012,88662,NEGATIVE,0.88169384
+I want gun control.,88812,90277,NEUTRAL,0.573332667
+And I hope to God nobody else sends me any more prayers.,90370,93837,NEUTRAL,0.559292674
+Thousands of students are expected to walk out of their schools.,93912,97647,NEGATIVE,0.718693078
+A mass protest across the nation against gun violence.,97692,101742,NEUTRAL,0.723618925
+A new report by the UN.,101877,103507,NEUTRAL,0.888493955
+Carries a stark warning millions more people will die from extreme heat by the year 2040.,103585,109267,NEGATIVE,0.928992927
+India's Kerala state was hit by the worst flooding it's seen in a century.,109390,113367,NEGATIVE,0.937177539
+Powerful seven five magnitude earthquake struck the island of Sulawesi Friday.,113427,118332,NEUTRAL,0.769233763
+Several separate enormous wildfires are taking a terrible toll.,118422,122472,NEGATIVE,0.930053353
+Stuff that we lost isn't as important as the fact that our families all want apart.,122517,126732,NEGATIVE,0.929162562
+Yemen's humanitarian crisis is escalating to devastating levels.,126822,130977,NEGATIVE,0.946894348
+The United Nations warns up to 13 million civilians are at risk of starvation.,131007,135852,NEGATIVE,0.895098209
+The administration's new crackdown on illegal immigration at the border.,136032,140337,NEUTRAL,0.810797334
+"Over a six week period, nearly 20 kids were separated from nearly as many adults.",140487,145797,NEGATIVE,0.491463393
+"You know, they have a word.",145842,147112,NEUTRAL,0.666424513
+It sort of became oldfashioned.,147250,149262,NEGATIVE,0.655930042
+It's called a nationalist.,149337,151257,NEUTRAL,0.745118022
+You know what I am?,151347,152242,NEUTRAL,0.767848134
+"I'm a nationalist, okay?",152290,153937,NEUTRAL,0.772589684
+"In Paris, violent clash is erupted between police and protesters for the third straight weekend.",154075,159387,NEGATIVE,0.893542349
+We pay so many taxes.,159462,161622,NEGATIVE,0.722931862
+It's impossible now to have a good life for us.,161742,166762,NEGATIVE,0.564901829
+"This is Jaman Hashogji, captured on closed circuit cameras stepping into what Turks authorities believe was a death trap.",166900,173487,NEGATIVE,0.525988638
+I am here today not because I want to be.,173562,176272,NEUTRAL,0.568210125
+I am terrified.,176455,177747,NEGATIVE,0.88972789
+Look at me when I'm talking to you.,177867,179377,NEUTRAL,0.815672696
+"You're telling me that my assault doesn't matter, that what happens to me doesn't matter.",179395,184522,NEGATIVE,0.663453877
+Bill Cosby becomes the first celebrity to be convicted in the MeToo era for 32 years.,184630,191962,NEUTRAL,0.747322023
+Abusers.,192100,192912,NEGATIVE,0.773529947
+Your time is up.,192987,194677,NEUTRAL,0.617459357
+"The survivors are here, standing tall, and we are not going anywhere.",194845,200087,POSITIVE,0.533773363
+Falling on your knees.,200812,203162,NEUTRAL,0.535302579
+What I know for sure is that speaking your truth is the most powerful tool we all have.,205162,213697,POSITIVE,0.874232531
+So I want all the girls watching here now to know that a new day is on the horizon.,213805,221762,POSITIVE,0.881155491
+Elections.,223387,224387,NEUTRAL,0.602278829
+First Muslim women.,224812,226837,NEUTRAL,0.83232528
+First Native American women.,226900,228412,NEUTRAL,0.815748513
+First openly gay man elected governor.,228475,230667,NEGATIVE,0.706691384
+It means something to kids and people to see images that reflect themselves.,230727,237082,POSITIVE,0.737340331
+"It's historical, it moves me like it moves me into tears.",237235,241017,NEUTRAL,0.579575121
+"That is going to have an impact because imagery does, you know, representation does.",241077,245122,NEUTRAL,0.514766753
+Run are the champions of the world.,245230,248525,POSITIVE,0.841435075
+All twelve boys and their soccer coach have now been rescued from that flooded cave in Thailand.,249037,255192,NEUTRAL,0.707169056
+An immigrant from Mali is being called a real life Spiderman after he rescued a child dangling from a balcony.,255252,262197,NEUTRAL,0.703722298
+Look at this.,262242,262987,NEUTRAL,0.75706327
+"You know, I guess one person can make a difference.",263125,267200,NEUTRAL,0.679776728
+There are no limits.,267712,268947,NEUTRAL,0.632387877
+That the humans near it.,268992,270487,NEUTRAL,0.727416635
+Touchdown confirmed.,270550,272127,NEUTRAL,0.810860038
+I believe what makes us unique is transcending our limits.,272307,276132,POSITIVE,0.853558838
+"I would much rather fail gloriously than not venture, not tried.",276222,281625,NEGATIVE,0.741036952
+"Do you use a smartphone, tablet or computer just before you head to bed?",6687,11902,NEUTRAL,0.908552289
+Then it's time to change.,12070,13942,NEUTRAL,0.752140105
+"Smartphones, tablets, and computer screens all produce light towards the blue end of the spectrum, and that prevents your brain from producing a sleep hormone called melatonin.",14140,24852,NEUTRAL,0.641248643
+"This, in turn, disrupts your deep sleep and dreaming.",25032,28392,NEGATIVE,0.828296363
+So make sure you turn down the brightness of these devices in the hour or so before you go to bed.,28527,34027,NEUTRAL,0.823027372
+"Or better still, turn them off completely.",34120,36650,NEUTRAL,0.543260157
+And don't put them on your bedside table.,37237,39522,NEGATIVE,0.502877891
+Otherwise you'll be tempted to use them during the night.,39642,42697,NEUTRAL,0.65865761
+"The message is clear if you want to sleep well, it's time to banish the blues.",42880,47912,NEUTRAL,0.725240827
+You.,57187,57450,NEUTRAL,0.5462569
+Little Orpheus is a casual 2D platformer developed by the Chinese Room and published by Secret Mode.,6312,13017,NEUTRAL,0.934497535
+"You play as Comrade Ivan Ivanovich, a Soviet cosmonaut on a mission to discover what to his ship Little Orpheus.",13152,21087,NEUTRAL,0.901849866
+"After three years of being missing in action, you emerge as a selfproclaimed hero and upon your return are questioned by the general with questions about your whereabouts, what happened to Little Orpheus, and the overall mission.",21237,34332,NEUTRAL,0.78102237
+"Your journey unfolds through the Tales retelling your adventure will have you traveling across various worlds and other unique locations, avoiding all sorts of tremendous danger along the way.",34422,46267,NEUTRAL,0.497255981
+"Although the plot is primarily told in the background, it feels like the star of the show.",46390,51562,POSITIVE,0.526201546
+"As you play, lines of dialogue spill into the foreground, dropping hints of exposition, background and banter between Ivan and Denner.",51700,60162,NEUTRAL,0.889661849
+"Each adventure becomes progressively more absurd and insane, instantly capturing my interest and making me care for both characters.",60312,68232,NEGATIVE,0.466223061
+"Now, I wasn't too happy with the third act, as it became a bit too predictable.",68397,72942,NEGATIVE,0.962512493
+"However, I did appreciate the feelgood ending.",73077,75942,POSITIVE,0.936649024
+"Overall, the story was surprisingly entertaining and eloquently interwoven into the core.",76077,81267,POSITIVE,0.9829337
+"Gameplay gameplay is a bit hit or miss, with only five or so inputs, platforming feels a bit basic.",81327,88572,NEGATIVE,0.68607825
+"You're limited to jumping, crouching, and interacting with items throughout the entire playthrough.",88692,94047,NEUTRAL,0.701398611
+"Sure, there are some QuickTime events that will surprise you, but that doesn't quite add a proper challenge.",94167,99957,NEUTRAL,0.511941016
+"Despite the simplicity, I enjoyed the easygoing experience as it spotlighted the ongoing story.",100122,105877,POSITIVE,0.957534432
+It's an odd tradeoff that results in easy gameplay that bleeds into the puzzle design as well.,106045,111562,NEUTRAL,0.584486783
+Puzzles are elementary and are nearly impossible to get stuck on.,111700,115642,NEGATIVE,0.87383461
+You can expect standard mechanics like dragging items for platforming purposes and interacting with correct levers all smooth and very easygoing.,115765,124467,POSITIVE,0.62820822
+"Although the puzzles and gameplay could have benefited from variety, I had way too much fun breezing through the extraordinary worlds.",124602,132387,POSITIVE,0.939580739
+"Little Orpheus was made to be a bitesized adventure that's entertaining, not daunting.",132537,137922,POSITIVE,0.642073214
+"It doesn't need brainbusting puzzles or overthetop boss fights, because at its core, the gameplay is satisfying, the story is immaculate, and the visuals are gorgeous.",138042,148647,POSITIVE,0.956767678
+I was pleasantly surprised at how stunning the background visuals are.,148842,153067,POSITIVE,0.987938643
+Colors are bright and pop beyond the twodimensional plane.,153190,156747,POSITIVE,0.906068027
+"It's vivacious, it adds to the narrative, and it truly feels like the cherry on top.",156867,162217,POSITIVE,0.918520272
+Little orpheus is Simplistically beautiful?,162415,165322,POSITIVE,0.521302879
+"Although the gameplay is a bit too relaxed for my usual taste, the fantastic art, design and whimsical storytelling truly make the adventure spectacular.",165505,174357,POSITIVE,0.907633066
+"If you're in search for an interactive story that sprinkles in some light puzzles and platform challenges, it might be time to explore with Ivanovanovich.",174522,182832,POSITIVE,0.521057308
+"Little orpheus is available now on apple arcade steam xbox series, nintendo switch PlayStation and the epic game store.",182997,191775,POSITIVE,0.540025651
+"I started collecting racist objects when I was a teenager, and the stuff was everywhere.",6162,11912,NEGATIVE,0.685674369
+"At a certain point, I ended up with thousands of pieces.",12262,15537,NEUTRAL,0.718148291
+I didn't know what I would do with it.,15612,17212,NEUTRAL,0.509820044
+I just thought a lot about what it meant to be a person of color.,17275,20272,NEUTRAL,0.863013804
+"Living during Jim Crow had no intention of creating a museum, but the collection kept growing.",20380,26907,NEUTRAL,0.555698872
+"So in the 1990s, I gave my collection to the university.",27072,31262,NEUTRAL,0.873436391
+"It took 15 years, but in 2012, we opened this museum.",31612,36512,NEUTRAL,0.620945811
+"I have lots of respect for museums that celebrate African American history, that celebrate African American accomplishment, but that's not what this facility was.",37462,46957,NEUTRAL,0.540105999
+I wanted to create an actual racism facility to have people focused on this specific topic in terms of our history.,47035,56842,NEUTRAL,0.755522907
+"So if you just have a society with millions of just postcards like this, does that reinforce certain ideas about black people and white people?",56965,65467,NEUTRAL,0.500416219
+"Some of the best discussions we have in the museum are about the word nigger, which sounds kind of weird, by the way, because I'm a sociologist, and we don't believe words have any inherent meaning.",65665,74847,POSITIVE,0.557364643
+They're just sound signs that we give.,74967,77062,NEUTRAL,0.803426087
+"But we do believe that people, once the meanings are given, that they are shared.",77200,81567,NEUTRAL,0.747753978
+"I mean, no peace is inherently racist.",81627,84357,NEGATIVE,0.663330674
+It's a racist society which will create racist objects and will racialize other objects.,84447,89922,NEGATIVE,0.950270712
+That's why the watermelon has a racial there's nothing inherent about a watermelon that makes us racist.,89967,95562,NEGATIVE,0.662412226
+But you know darn well that it's been racialized.,95637,98537,NEGATIVE,0.671907723
+"Someone looking at ancho mama objects or other mammy images, they don't think of that as offensive.",98962,107127,NEUTRAL,0.604946733
+They think of good time spent with their families.,107232,109992,POSITIVE,0.630285859
+It's very nostalgic.,110127,111552,POSITIVE,0.917228341
+"Someone else looking at those same pieces, they see the vestiges of slavery and segregation so often.",111657,118342,NEGATIVE,0.722617924
+"We're not deciding that something is racist, but what we are doing are collecting pieces that help us talk about racism.",118390,125502,NEUTRAL,0.72639811
+"We have lots of friends of the museum, and we receive hundreds of pieces a year.",125682,130072,POSITIVE,0.88433212
+"The first director of the museum, he said to me one day, hey, there's a couple guys I want you to meet.",130180,135200,NEUTRAL,0.682517827
+Here we go.,136312,137452,NEUTRAL,0.588468194
+Here's some Jim Crow related materials.,137620,140892,NEGATIVE,0.5835706
+"These are the dolls, and some of them are older, some are newer.",140952,149312,NEUTRAL,0.865935028
+"These are like, 1950s, two female.",149887,153627,NEUTRAL,0.804334402
+"Yeah, those are really interesting.",153732,156337,POSITIVE,0.950459719
+They are our group of friends.,156475,158782,POSITIVE,0.736014545
+Friends were all collecting this because we realized what it said about our society and what it said about where we were in the past and where maybe we still were.,158860,169657,NEUTRAL,0.828225255
+"When we met David Pilgrim in the whole Jim Crow Museum and all of that, it was like, finally, there's a place where we can put this, a sense of relief that we could let go of these objects so other people could learn from it.",169810,183787,POSITIVE,0.611157358
+We have some understanding of bigotry.,183850,187542,NEUTRAL,0.715290666
+We have some understanding of being the outsider or not being accepted or being told that we are not welcomed we can't be accepted.,187602,198177,NEGATIVE,0.517554343
+You have no place here.,198357,200450,NEGATIVE,0.83964628
+"I think because we've experienced that in our own lives, because we're gay, there's a little transference there to trying to help understand the even bigger question of bigotry, and then likewise, racism.",200887,215762,NEUTRAL,0.487057
+"Wow, this is really racist.",216187,218067,NEGATIVE,0.964962721
+"This is an ashtray where the blackwasher woman, she has her one breast stuck in the wringer, and so she's hollering, My God, that's also sexist.",218127,227832,NEGATIVE,0.878921688
+I think the Jim Crow would love it.,227922,229850,NEUTRAL,0.477600127
+This is on multiple levels.,230287,232197,NEUTRAL,0.538933575
+This is a wonderful piece.,232317,234050,POSITIVE,0.980189741
+"Once we finally discovered the Jim Crow Museum, it gave us more impetus to go out and find, collect, save.",234487,241837,POSITIVE,0.661369741
+They now have at least 500 things from us.,241975,245167,NEUTRAL,0.774411678
+"By collecting those things, we get a broader picture of how racism continued all the way up into the still continues.",245290,255402,NEUTRAL,0.54259938
+I've seen things about President Obama that were horrible.,255432,259512,NEGATIVE,0.963315785
+I think people who go to the Jim Crow Museum are often surprised when they see something from 2015 as racist as many of the things from 100 years ago.,259662,272047,NEGATIVE,0.781266034
+"And we've had friends who are a complete mess after they've left, because suddenly they've been confronted with the truth for many years.",272230,282892,NEGATIVE,0.713689625
+"When I traveled, I would say that the United States, despite this history of enslavement and Jim Crow, that we are today more Democratic and more egalitarian than we've ever been.",282940,293392,POSITIVE,0.792164028
+And I stopped saying that about two years ago.,293590,296225,NEUTRAL,0.576115072
+I'm not suggesting that we are back in the gym crawl period.,299137,302502,NEUTRAL,0.675508916
+Don't get it twisted.,302532,303402,NEUTRAL,0.594105184
+It's not like that.,303432,304507,NEGATIVE,0.487663597
+But what I am saying is I hear and see a level of racist rhetoric that is reminiscent of when I was growing up in Alabama under Governor George Wallace.,304660,314787,NEGATIVE,0.897924066
+"People say they don't want to talk about race, but they're doing it all the time.",314937,318022,NEGATIVE,0.631118298
+But they're not not talking about it in places where their ideas can be challenged.,318130,322587,NEGATIVE,0.492973417
+The Supreme Court has delivered its verdict on the validity of the central law for 10% reservation benefits to economically weaker sections.,162,8037,NEUTRAL,0.903903067
+"The bench ruled on a bunch of legal issues surrounding the validity of the 103rd Constitution Amendment, which provided the 10% reservation for EWS, and the Supreme Court has upheld it.",8187,20602,NEUTRAL,0.748519242
+"Now, the 103rd Amendment to the Constitution provided 10% reservation in jobs and admissions to EWS economically because sections who were to be persons other than SCST and OBC and whose annual family income was below eight lakh rupees.",20695,38742,NEUTRAL,0.818592668
+This had been introduced just before the 2019 general election.,38802,42627,NEUTRAL,0.911233604
+"There were as many as 40 petitions that were heard by the Supreme Court against it, including by State Tamil Nadu.",42732,50397,NEUTRAL,0.771163046
+So today the Supreme Court upholding that 10% quota.,50442,54747,NEUTRAL,0.695672452
+"We're joined by Sanjay Hege, senior advocate in the Supreme Court.",54792,57852,NEUTRAL,0.836512387
+"So, your first reaction to this development?",57882,60737,NEUTRAL,0.871748984
+"Well, constitutional amendments are very difficult to dislodge.",61762,66212,NEGATIVE,0.537777901
+The only challenge is that it violates the basic structure of the Constitution.,66637,71987,NEGATIVE,0.751747251
+"I am not sure whether it's a unanimous judgment, because the judgment of Justice Ravenrobat had not been yet pronounced when I came on here.",73012,81575,NEUTRAL,0.727015197
+There will be plenty who will see this as the course of reservations changing.,82987,93597,NEUTRAL,0.750222981
+It's tied.,93717,94712,NEUTRAL,0.700356066
+There are many observations in the judgment which say that reservations are not to be there for a full time.,95962,102127,NEUTRAL,0.700729966
+I do expect that all that the Supreme Court has said today will continue to engage the nation as well as thinkers on the Constitution for quite some time.,102295,114200,NEUTRAL,0.594943166
+Just Mr.,115312,116362,NEUTRAL,0.740965009
+"Marinopal, who was the former director of the National Law School of India, while arguing it, arguing the matter, said that this is the adm troubleshoot moment for social justice.",116425,128652,NEUTRAL,0.849514902
+"Now, for those of you who do not know, IDM Jabalport was a decision of the Supreme Court during the emergency which took away the right to life in India.",128832,139377,NEGATIVE,0.515517652
+"Today, I have no doubt that many of the forces of social justice will not be satisfied with this judgment.",139557,148662,NEGATIVE,0.71033448
+"In some ways, the Federal Reserve is like a company.",237,3052,NEUTRAL,0.714870334
+It has a balance sheet with assets that bring in money on one side and liabilities that cost money on the other.,3145,10927,NEUTRAL,0.623319328
+But what the Fed keeps on its balance sheet has ramifications for the economy.,11020,15747,NEUTRAL,0.77029562
+The balance sheet is the tool that they use to control and manage interest rates.,15867,21162,NEUTRAL,0.832209349
+"And for the last 15 or so years, the Federal Reserve has actually made money off of this balance sheet.",21237,27072,NEUTRAL,0.771053135
+Until today.,27192,28312,NEUTRAL,0.724716246
+"Thanks to, well, the Fed's own policies, they're losing money because they're raising interest rates a lot.",28450,33847,NEGATIVE,0.809347332
+Here's how the Fed makes money and why they're not.,33955,36847,NEUTRAL,0.574924767
+Now this is what their balance sheet looks like.,36880,41512,NEUTRAL,0.621751368
+"On the asset side, they have U.",41575,43282,NEUTRAL,0.794264674
+S.,43285,43447,NEUTRAL,0.539962947
+"Treasury securities, like bonds.",43480,45507,NEUTRAL,0.745628953
+They're considered really stable lowrisk investments.,45672,48687,POSITIVE,0.666953743
+And the Fed buys them sometimes a lot of them to help stabilize the economy.,48762,53337,NEUTRAL,0.738921881
+The point of it is to bring down longerterm interest rates.,53412,56052,NEUTRAL,0.84065932
+"So if more people are purchasing these securities, in this case the Fed, that's going to drive down the interest rate.",56082,61972,NEUTRAL,0.723839164
+There's more demand for the bond.,62005,63792,NEUTRAL,0.753067493
+"And the Fed purchases mortgage backed securities too, which are what they sound like when they invest in them.",63927,69592,NEUTRAL,0.792190552
+They're basically investing in people's mortgages.,69640,72147,NEUTRAL,0.605318069
+"If you have a two and a half percent mortgage rate, that was in part because the Fed was buying mortgage backed securities during the Pandemic.",72267,79782,NEUTRAL,0.675896287
+"So that's the asset side, which totals nearly $9 trillion.",79872,83707,NEUTRAL,0.797412694
+"On the liabilities side, the Federal Reserve has literally all of the currency in circulation.",83860,89862,NEUTRAL,0.598226964
+It's why all money has Federal Reserve note written on it.,90012,93487,NEUTRAL,0.806449115
+"It's a liability of the Fed, the US.",93550,96037,NEGATIVE,0.789706767
+Central bank.,96100,96972,NEUTRAL,0.609206498
+The Fed is also a bank for other banks.,97092,99642,NEUTRAL,0.76150167
+And their main liability is reserves of money that other banks keep at the Fed.,99702,104097,NEUTRAL,0.598412037
+It's another way they can influence the economy.,104217,107112,NEUTRAL,0.595264077
+"There's some concern that if you had all this money out there, you could have even more inflation.",107262,112887,NEGATIVE,0.638617516
+You could have economic effects that you don't intend.,113037,115812,NEGATIVE,0.691517889
+So one of the ways to prevent that money from spurring even more demand is to have banks hold it at the Fed.,115887,124437,NEUTRAL,0.783361077
+And the Fed controls interest rates by setting the rate of interest on those reserves.,124512,130197,NEUTRAL,0.865471423
+"When the Fed raises interest rates on these reserves, it affects other markets, from bank loans to mortgages.",130392,136782,NEUTRAL,0.714244068
+But really it means the Federal Reserve has to pay more in interest to those banks.,136947,142412,NEGATIVE,0.501036584
+"For years, that amount was really low, usually below 1%.",142912,147200,NEUTRAL,0.576220036
+"Yet the Fed's assets, on average, pay 2.3% in interest.",147562,152525,NEUTRAL,0.60389781
+So the Fed's assets were bringing in more interest than its liabilities were costing.,152962,158442,NEUTRAL,0.703012288
+"The Fed was actually turning a profit, and it would send that profit to the US.",158577,163237,NEUTRAL,0.734884501
+Treasury.,163300,164157,NEUTRAL,0.625038326
+"In the last eleven years, this profit would range from about four to $12 billion a month.",164322,170692,NEUTRAL,0.840079486
+The money that the Fed sends to the treasury means the treasury doesn't have to raise as much money in the private market.,170815,176677,NEUTRAL,0.802473605
+It means the borrowing needs of the US government are smaller.,176770,180627,NEUTRAL,0.709097266
+It means deficits are lower than they would otherwise be.,180732,183622,NEUTRAL,0.580942452
+But now that the Federal Reserve is raising interest rates that profit is now a loss.,183730,189102,NEGATIVE,0.542704761
+They are raising interest rates so much that they're going to pay more out than they take in.,189282,194300,NEGATIVE,0.729952216
+This idea of the Fed even having a profit or loss is a relatively new one.,194662,199747,NEUTRAL,0.741228342
+Before 2008 the Fed's balance sheet looked like this about a trillion dollars in assets and liabilities mainly treasury securities to COVID the currency in circulation.,199855,209847,NEUTRAL,0.80416584
+But then the 2008 financial crisis hit.,210042,212707,NEGATIVE,0.647523105
+They dropped interest rates to zero but wanted to do even more.,212785,216682,NEUTRAL,0.590700865
+So they bought treasury and mortgage backed securities to push interest rates down even further.,216760,221787,NEUTRAL,0.726434708
+That began a decade of growth of the Fed's balance sheet as interest rates stayed low and the central bank utilized these assets and liabilities to influence the economy.,221937,231582,NEUTRAL,0.666026175
+Although they tried to shrink the balance sheet at times the plan was never to permanently expand the balance sheet.,231672,237192,NEUTRAL,0.780424774
+Then COVID comes and there was a financial panic in March 2020 and they bought just an enormous staggering amount of treasury securities and mortgage backed securities.,237252,247302,NEUTRAL,0.484070361
+So with a large balance sheet comes large profits but now also large losses.,247482,252897,NEUTRAL,0.571154356
+So when the Fed loses money what happens?,253017,255277,NEGATIVE,0.512199223
+They create basically an IOU where they will pay back later the money that they're losing now.,255445,261547,NEGATIVE,0.501658797
+They call this a deferred asset.,261655,263547,NEUTRAL,0.795622826
+Basically they'll pay themselves back later the treasury will have less money which means they'll have to take on more debt to add to the deficit.,263667,271962,NEGATIVE,0.629390001
+But for the Federal Reserve experts say it shouldn't change their day to day operations and they're not too worried about it.,272037,278782,NEUTRAL,0.768483102
+The Feds pretty clear their goals are to achieve low and stable inflation and strong employment.,278860,284232,POSITIVE,0.573485911
+It doesn't say anything anywhere that they're supposed to make a lot of money for the US.,284322,287917,NEGATIVE,0.580386639
+Government and so that's how they're treating this right now.,287965,290572,NEUTRAL,0.580011666
+Now that the Fed has accumulated such a large balance sheet to manage the economy it must manage not just its gains but also its losses.,290680,299612,NEUTRAL,0.75733763
+You.,303412,303675,NEUTRAL,0.5462569
+These are GPS markers of liquid natural gas tankers in the English Channel.,1062,6097,NEUTRAL,0.908578277
+"Many are idling, or sailing slowly, much like this other cluster in the Gulf of Cadiz off the coast of Spain.",6280,14087,NEUTRAL,0.829093754
+Each of these ships is carrying enough liquefied natural gas to heat a million homes a month.,14437,19417,NEUTRAL,0.694186568
+"But they can't unload their cargo, at least not right now.",19465,22612,NEGATIVE,0.592158556
+Lots of state.,22750,23602,NEUTRAL,0.647977531
+The economy would really nosedive if source of gas were to run out.,23695,28627,NEGATIVE,0.773053527
+So what's behind these tanker traffic jams?,28720,31407,NEUTRAL,0.494536906
+And what might they mean for Europe's energy needs?,31497,34162,NEUTRAL,0.800166488
+"This winter, European nations are racing to store natural gas, a commodity the continent relies on to fuel its factories, power its cities and heat its homes.",34225,46377,NEUTRAL,0.676905155
+But recent supply chain bottlenecks threatened to undermine Europe's energy security.,46557,51125,NEGATIVE,0.840881526
+"Until recently, Europe relied on Russia for about 40% of the natural gas it used to heat its homes and power its industries.",52387,60222,NEUTRAL,0.638614893
+"But this year's, Russian war in Ukraine threw Europe into its biggest energy crisis since the 1970s.",60342,67042,NEGATIVE,0.823337436
+"Before the war, about half of the Russian gas that ended up in Europe via pipeline was transported by the Nordstream One pipeline, which runs under the Baltic Sea, connecting Russia's Siberian gas fields to Germany.",67165,78717,NEUTRAL,0.714137554
+"But in June, Russian gas giant Gas Prom began reducing gas flows through the pipeline.",78777,84222,NEUTRAL,0.544173717
+We are working on the worst possible scenario.,84342,89457,NEGATIVE,0.866881192
+"Then, in September, Russian indefinitely suspended natural gas flows to Europe via Nordstream.",89547,94992,NEGATIVE,0.557239652
+"Later that month, European authorities released footage of the Baltic Sea bubbling amid reports of unexplained leaks from the Nordstream pipelines.",95127,103197,NEUTRAL,0.629575729
+It was a deliberate act of sabotage.,103317,106632,NEGATIVE,0.790475905
+Putin has launched Russia's first mobilization since World War II.,106722,111042,NEUTRAL,0.748649836
+"And since many months, he is using energy as a weapon.",111102,114507,NEUTRAL,0.66348213
+Western governments and intelligence agencies haven't yet named a suspected culprit.,114597,119412,NEUTRAL,0.670658827
+"With the pipelines no longer operational, european leaders have turned to other countries like the United States and Qatar to supply the continent's natural gas.",119487,127587,NEUTRAL,0.515962303
+But rebuilding Europe's natural gas supply chain hasn't been easy.,127662,131107,NEGATIVE,0.476243973
+"To begin with, there are not enough regasification terminals for the tankers to offload their gas.",131185,136602,NEGATIVE,0.731467724
+Regasification terminals are huge plants built on the coastline.,136707,139692,NEUTRAL,0.739166677
+They take in liquified natural gas tankers.,139752,141927,NEUTRAL,0.814291179
+They turn that liquid gas back into a gas and pump it into the domestic network.,141957,145992,NEUTRAL,0.781377196
+"There are quite a few of them in Europe, but they're not distributed evenly.",146052,149052,NEUTRAL,0.521033823
+You have a lot in the UK and Spain and in Portugal.,149082,151647,NEUTRAL,0.868101776
+You don't have any at all in Germany.,151767,153717,NEGATIVE,0.500298023
+Compounding the issue is a lack of storage.,153852,156327,NEGATIVE,0.901057065
+Europe simply does not have enough space to keep the gas.,156432,159942,NEGATIVE,0.813365459
+Europe does have a lot of gas and storage.,160077,162012,NEUTRAL,0.778304279
+"It stores gas in caverns, underground and in tanks.",162087,165267,NEUTRAL,0.680753171
+"For the past half century, Europe has been able to rely on a very steady supply of Russian gas, so there was no need to build even bigger storage facilities.",165402,173982,NEUTRAL,0.643471837
+"For now, many of these giant ships are serving as temporary offshore gas storage facilities, which has resulted in part from a market dynamic known as contango.",174147,184212,NEUTRAL,0.852059543
+Contango is a technical term used by traders for a situation where a commodity costs less if a trader sells it tomorrow than it costs if the trader agrees to sell it in several months time.,184287,196252,NEUTRAL,0.724610209
+"And it's a way in which the market encourages traders to hold on to a commodity, such as gas, to store it for when it is needed later in the year or early next year.",196420,208852,NEUTRAL,0.793519139
+This chart tracks the difference between liquid natural gas prices next month compared to prices in two months'time.,209020,215322,NEUTRAL,0.905917227
+"As you can see, on September 15, a trader would make $3.42 per million British thermal units if they held their tanker at sea until November rather than if they offloaded the gas in October.",215442,227307,NEUTRAL,0.833720386
+"A month later, on October 13, that gap had more than doubled to about $7.50 per million British thermal units if they sold in December rather than in November.",227397,237747,NEUTRAL,0.781247199
+The original target was to fill storage facilities to 80% of their total capacity by November 1.,237867,244267,NEUTRAL,0.86247468
+That target has been met and exceeded far ahead of schedule.,244390,247392,POSITIVE,0.902608037
+The latest data suggests storage is now at nearly 95% in total.,247452,251977,NEUTRAL,0.661197364
+European natural gas prices have plunged more than 70% since hitting an alltime high in late August.,252145,258057,NEGATIVE,0.702592492
+After storage facilities across the continent filled close to capacity.,258147,262242,NEUTRAL,0.824804306
+"There isn't enough storage to get through winter if several things go wrong for example, if it's very cold, if Russian supplies stop altogether, and if supplies from Norway or the US.",262377,273217,NEGATIVE,0.843515754
+Get disrupted in some way.,273265,274350,NEGATIVE,0.492495924
+"Belgium, ridiculed by some for being boring, has now become europe's cocaine trafficking capital.",2412,12437,NEGATIVE,0.870119691
+Criminal groups from the western Balkans have proved to be very entrepreneurial.,13612,18212,NEUTRAL,0.635099888
+"In 2020, the port of Antwerp accounted for 40% of all cocaine seizures in the EU.",18562,25562,NEUTRAL,0.675854325
+Cocaine is perhaps the ultimate criminal stealth.,25912,30627,NEGATIVE,0.589457035
+It fought corruption of the local authorities and violence to the streets.,30807,35462,NEGATIVE,0.737146378
+"Within ten years, we will end up having narco state.",36412,41675,NEUTRAL,0.499845803
+So how did this happen?,42337,43867,NEUTRAL,0.759683013
+"And what, if anything, can be done to curb the wealth and power of the traffickers?",43990,49037,NEUTRAL,0.541006327
+June 2020.,61387,62842,NEUTRAL,0.707709849
+"Just outside the Belgian port of antwerp, armed police are about to swoop on a warehouse.",62965,69062,NEUTRAL,0.610122442
+"Inside, they find shipping containers full of tools used by a sophisticated cocaine trafficking cartel.",73012,79902,NEGATIVE,0.566260338
+"A torture cell, complete with dentist chair and sound installation.",80082,84762,NEGATIVE,0.770427644
+"And a sash, a fake police uniform.",84912,87662,NEGATIVE,0.722038329
+"If you see that the criminal organizations are putting in place containers with torturing, if you see that they are using uniforms in order to do their this is, of course, frightened.",89587,101312,NEGATIVE,0.838671625
+Antwerp has become a key hub for importing cocaine from south America into Europe.,102187,107912,NEGATIVE,0.49292329
+"In recent years, there have been record and increasing seizures of cocaine at the port.",108637,113900,NEUTRAL,0.602924526
+This one was a container with bananas coming from Colombia.,115312,119352,NEUTRAL,0.88884002
+You can see here a darker moss when we check that out.,119457,122962,NEUTRAL,0.844548762
+"Two tons of cocaine shipping containers are the arteries of most international trade, legal and illegal.",123025,133412,NEGATIVE,0.544031858
+"The lowcost, high volume advantages they give legitimate industry are equally valued by the most lucrative form of global criminal business drug trafficking.",134212,144737,POSITIVE,0.541780531
+Here we have a little container that was found inside of a big container.,145987,150162,NEUTRAL,0.85810858
+"It appeared to be full of drugs, so not even hidden between other goods, just a whole small container filled with eleven tons of cocaine.",150237,159062,NEGATIVE,0.724515438
+"In 2021, over 100 tons of cocaine were seized in Belgium.",160462,165702,NEGATIVE,0.599850237
+"That's over onefifth more than the Netherlands, which seized the second highest amount in the European union.",165807,172037,NEUTRAL,0.688630044
+Law enforcement agencies estimate they only catch around 10% of the total cocaine smuggled through Antwerp.,174112,181262,NEUTRAL,0.611281216
+Their business model is to ship massively in as many containers as possible.,181687,187492,NEUTRAL,0.75825125
+"And then they know, okay, we're going to lose the 10% or 20%.",187615,192050,NEGATIVE,0.589538395
+Few industries could survive such a loss of product.,196237,199327,NEGATIVE,0.813110948
+So why do cocaine traffickers risk using Antwerp for repeat business?,199495,203750,NEGATIVE,0.710292935
+"Because they, like legitimate companies, can rely on the infrastructure and logistics that Europe's second biggest and furthest inland seaport offers.",204187,213437,NEUTRAL,0.502931654
+"A huge variety of global goods pass quickly through antwerp and are distributed across the continent fast, whether that product is coffee, counterfeit, or cocaine.",214237,225512,NEUTRAL,0.684036851
+Illicit markets operate in many of the same ways as illicit markets.,226687,231822,NEGATIVE,0.737780988
+So the same ports that are being used to smuggle drugs are also the ones that we're moving everything else in.,231942,238400,NEGATIVE,0.495399743
+"On average, 12 million containers move in and out of Antwerp each year, and only around 2% of containers are physically checked by the authorities.",238987,248892,NEUTRAL,0.622691214
+"If you are a trafficker, the opportunities for hiding drugs within this sheer volume of trade are ample and fruitful.",249027,256347,NEUTRAL,0.610699892
+"Bananas are a very popular way to smuggle cocaine from Latin America to Europe, because they are one of the main products that Latin America countries export to Europe.",256542,266712,NEUTRAL,0.670555472
+"And because bananas are perishable goods, so the pressure is on to rush them through customs.",266787,272012,NEUTRAL,0.600953996
+The traffickers decide to piggyback off this efficiency and to play the numbers game.,272437,279292,NEUTRAL,0.514621198
+A port of an's work makes its money because it can get a container off the ship and onto transport to its next destination in an extremely short time.,279415,291202,POSITIVE,0.594622195
+It's simply not possible for them to search millions of containers.,291295,295227,NEGATIVE,0.847775221
+And this is what the traffickers are depending on and have traditional depended on.,295332,301400,NEGATIVE,0.556307614
+"So whether you're importing cocaine, methamphetamines, or counterfeit medicine, the port of Antwerp is an excellent hub for distributing across Europe.",308437,317387,POSITIVE,0.615799069
+This makes it especially attractive for cocaine traffickers because consumption has increased in Europe over the last decade.,319462,326912,NEUTRAL,0.449097216
+"Crucially, it's now a more lucrative market than North America.",328012,332162,POSITIVE,0.68222934
+"Europe became a business nobrainer for cocaine traffickers because, one, the price is higher a kilo of cocaine in Europe than in the United States.",333862,343432,NEGATIVE,0.697558999
+"Two, much less risk of interdiction, and three, much less risk of extradition.",343585,350472,NEUTRAL,0.675358295
+"So more rewards, less risk.",350592,353387,POSITIVE,0.578355193
+Many European mafias sought to exploit this profitable opportunity further by controlling more of the supply chain.,354487,361712,NEUTRAL,0.718932807
+Some carved out a reputation for both reliability and extreme violence.,362212,367722,NEGATIVE,0.746565044
+"Those from the Balkan countries such as Albania, Croatia, and Bosnia in the 1990s and Balkans, endured years of war and conflict.",367917,381237,NEGATIVE,0.736522496
+The destruction of economies pushed some towards crime.,381312,385347,NEGATIVE,0.815123558
+The Balkan mafias have taken the knowledge of violence and toleration for violence from the Balkan war.,385542,392525,NEGATIVE,0.800409615
+"They had access to weapons, they had language skills.",393787,397487,NEUTRAL,0.592645705
+Criminal groups from the western Balkans have proved to be very entrepreneurial.,399487,404087,NEUTRAL,0.635099888
+"They developed some skills that helped them going from heroin, cannabis cultivation, and the human smuggling and tobacco smuggling to a more lucrative business, that is cocaine trafficking.",405862,419087,POSITIVE,0.649957001
+"Balkan traffickers, together with other European mafias, have proved resourceful importers, expanding shipment routes between south America and Europe.",420487,430562,NEUTRAL,0.744389951
+"Previously, cocaine would mainly travel from Colombia and enter Europe through its southern ports.",431512,437652,NEUTRAL,0.698237538
+"Balkan mafia groups traveled upstream and like a multinational with its subsidiaries, have built connections all over Latin America, including in new export countries such as Ecuador, and also smuggled product using new routes through northern European ports.",437832,455022,NEGATIVE,0.497638345
+These sophisticated transnational crime federations have boosted their profits by taking control of the shipping from Latin America to Europe.,455217,464382,NEGATIVE,0.531748831
+"In other words, they now control the whole supply chain.",464547,468402,NEUTRAL,0.565129817
+The main profit margin in the cocaine industry is not in the retail sale.,468582,474387,NEGATIVE,0.509882152
+It's not in the production.,474462,476337,NEUTRAL,0.565055609
+It is in the transport.,476412,478302,NEUTRAL,0.702299416
+"The markups for production, the profits are about 150%.",478482,483800,NEUTRAL,0.822380543
+The retail markup is about 300% the transport markup.,484762,490707,NEUTRAL,0.788168609
+"Depending on where you go to Europe, it is 1500%.",490797,496100,NEUTRAL,0.885601223
+"Unlike normal businesses, cocaine traffickers can deploy extreme violence to ensure product delivery.",499387,506112,NEGATIVE,0.851818383
+"And they can also employ corruption, as shown by the Albanian kingpin, Britain Regeti.",506262,512592,NEGATIVE,0.791903079
+Britain Rigetti is without any doubt the successful model of the Balkan criminals cocaine emissaries in Latin America.,512727,519852,NEUTRAL,0.665540695
+It is believed that rejoir arts in Ecuador in 2011 after he escaped a prison in Belgium.,519957,526272,NEUTRAL,0.910134733
+Britain Ruzepi was imprisoned in Ecuador in 2014.,526467,530547,NEUTRAL,0.642125487
+But that didn't stop him running a highly profitable cocaine empire.,530667,534737,NEUTRAL,0.541521013
+"His enormous profits meant he could afford to buy off officials not only in Latin America, but also in wealthy European countries.",535612,544412,NEUTRAL,0.556231081
+Journalist Arton HodgeR has interviewed Rajepi.,545062,549137,NEUTRAL,0.922407687
+Landings in Antwerpa cost the organization 20% to 24% of their cargo.,553462,559482,NEGATIVE,0.6451177
+"So if they shipped 100 Ecuador, they would pay bribes, 20 to 24 equivalent in cash.",559647,569600,NEUTRAL,0.622905254
+Vast profits have allowed traffickers to increase the budget they have for bribery.,572887,578007,NEGATIVE,0.662332654
+The kind of corruption of officials traditionally associated with poorer countries is becoming increasingly common in Europe.,578172,585962,NEGATIVE,0.851241887
+"If you're trafficking cocaine and you're making these quite remarkable levels of profit, then that just becomes a cost of sales.",586762,598175,NEGATIVE,0.576749027
+"There was a hope that with the possibility of countries from the Western Balkans joining the European Union, the Western Balkans would come to look more like the EU.",599512,608787,NEUTRAL,0.781523526
+"What we see is that in some countries of the EU, they're starting to look more like the Western Balkans.",608937,614087,NEUTRAL,0.612256289
+"Back in Belgium, this is a problem the head of customs freely admits to.",617812,622400,NEGATIVE,0.667234242
+Traffickers have bribed port officials to turn a blind eye to containers full of cocaine arriving at Antwerp.,622912,629612,NEGATIVE,0.598927915
+Today.,630187,630592,NEUTRAL,0.710625231
+I have two people who are in jail because they supported the criminal organizations.,630640,635772,NEGATIVE,0.934448719
+"You help them say, this container, you don't put it on this part of the terminal, you put it on another place, you can earn â‚¬60,000.",635892,646122,NEUTRAL,0.756936491
+It's easy money.,646167,647450,NEUTRAL,0.497371078
+And there are worrying signs in this corner of Europe that corruption extends beyond port workers right up to the top.,652687,659825,NEGATIVE,0.911748648
+Remember this container full of eleven tons of cocaine with a street value of up to threequarters of a billion euros.,661087,668312,NEUTRAL,0.602835238
+"The seizure led to the arrest of the former head of Antwerp's antinarcotics section, three police officers and a lawyer.",668737,676562,NEUTRAL,0.729433537
+Big corporations often lobby politicians.,678712,681887,NEUTRAL,0.513811946
+"Traffickers deploy a different kind of pressure group, because if a bribe isn't an option, the bullet is.",682237,689000,NEGATIVE,0.604711652
+The mayor of Antwerp needed 24/7 police protection after speaking out against drug mafias.,689362,696437,NEUTRAL,0.608332217
+They have the money to influence politics and so on.,696787,699982,NEUTRAL,0.553682864
+So what is the worrying part for me in this war on drugs is what the cocaine has done in South America.,700060,708162,NEGATIVE,0.746485531
+One should not be naive.,708237,709662,NEUTRAL,0.502886534
+What is possible in South America is also possible in Europe.,709737,714552,POSITIVE,0.630160093
+"Despite Belgian police launching their largest ever operation against organized crime in 2021, the head of customs has little faith the traffickers can be stopped.",714732,724917,NEGATIVE,0.583573699
+"At present, the effect on the criminal organization remains minor.",724977,731247,NEUTRAL,0.789346278
+"We seize a lot, but the prices on the marketplace, they remain the same.",731442,736850,NEUTRAL,0.730451047
+So what can be done to halt this vast illegal trade coming through Belgium?,742462,747212,NEGATIVE,0.578888059
+Those working in enforcement argue more and better resources are essential for taking on the traffickers.,747712,754112,NEUTRAL,0.688569903
+Belgian customs officers want the ability to scan 100% of containers coming into the country.,754537,760550,NEUTRAL,0.744232774
+"If not enough means are put available to the law enforcement agencies here, then within ten years we will end up having Narco state in Antwerp.",762412,775187,NEGATIVE,0.501624346
+Others argue a more coordinated international responses needed to the global phenomenon of illicit trafficking.,775687,782837,NEUTRAL,0.760399699
+This requires good transnational cooperation.,783262,786962,POSITIVE,0.632980287
+"At the moment, the criminals cooperate much more effectively than the police.",787387,791612,NEUTRAL,0.586446226
+But curbing the power of the traffickers will take more than improved enforcement.,792262,797022,NEUTRAL,0.598762035
+Globalization has led to a quadrupling of the number of containers over the last 20 years.,797217,802432,NEUTRAL,0.662840903
+"Across the world, opportunities for hiding and trading criminal cargoes are endless.",802510,809012,NEUTRAL,0.537236631
+"If we weren't one thing about the Socalled war on drugs, it is that international criminals have an unlimited capacity for adaptation to tackle drug trafficking, a rethink is needed about what should be considered criminal.",809737,828792,NEUTRAL,0.489773989
+That will require a radical change of strategy by governments towards focusing on medical solutions to drug use and legalizing production and distribution in order to break the gangster's grip over the drug business.,828927,842167,NEUTRAL,0.685277343
+The great hope is that you take away fast financial resources from some of the worst people on earth.,842365,850862,NEGATIVE,0.738570392
+War on drugs cannot be won as a war.,851212,855950,NEGATIVE,0.747086465
+"Hello, I'm Tom Spandage, deputy editor at The Economist.",865762,869067,NEUTRAL,0.819045961
+"If you'd like to learn more about this topic, click on the link opposite.",869127,872457,NEUTRAL,0.806285441
+Thanks for watching and don't forget to subscribe.,872547,874512,POSITIVE,0.961841881
+Working hard for something we don't care about is called stress.,612,4332,NEGATIVE,0.657930613
+Working hard for something we love is called passion.,4497,7787,POSITIVE,0.910453975
+I think one of the mistakes that people make is they think purpose comes from their job.,8512,12862,NEGATIVE,0.899387598
+"I've been a whatever for so many years, and when I lose my job or I retire, I now don't have a sense of purpose because I so closely associated my selfworth with the job that I did.",12925,24607,NEGATIVE,0.846730292
+I knew what my job was.,24685,26047,NEUTRAL,0.597373605
+I had a sense of purpose.,26080,27372,NEUTRAL,0.595111549
+"And one wonders if those things are conflated, right?",27492,30877,NEUTRAL,0.609192371
+"Which is, I had a sense of purpose for my job, and then when I didn't have the job, all of a sudden I woke up in the morning and didn't know what to do, which is, the purpose is not your MoS.",30970,37932,NEGATIVE,0.597673059
+Your purpose is not your sogunner your purpose is not the job that you wake up to do every day.,38022,42757,NEGATIVE,0.729178607
+Your purpose is something bigger.,42835,44217,POSITIVE,0.537477851
+I have five little rules that you can follow as you find your spark and bring your spark to life.,44277,50152,POSITIVE,0.595761001
+The first is to go after the things that you want.,50320,54052,NEUTRAL,0.673867285
+Let me tell you a story.,54220,55550,NEUTRAL,0.854989648
+"So a friend of mine and I, we went for a run in Central Park, the roadrunners organization.",56062,61562,NEUTRAL,0.626445174
+"On the weekends, they host races.",62362,64647,NEUTRAL,0.892249823
+And it's very common.,64842,65917,NEUTRAL,0.624999642
+"At the end of the race, they'll have a sponsor who will give away something apples or bagels or something.",65965,71182,NEUTRAL,0.789604843
+"And on this particular day, when we got to the end of the run, there were some free bagels, and they had picnic tables set up.",71335,79387,POSITIVE,0.612560868
+And on one side was a group of volunteers.,79450,82002,NEUTRAL,0.832004309
+"On the table were boxes of bagels, and on the other side was a long line of runners waiting to get their free bagel.",82107,89292,NEUTRAL,0.776903033
+"So I said to my friend, let's get a bagel.",89427,91722,NEUTRAL,0.571411371
+"And he looked at me and said, that line is too long.",91842,95107,NEGATIVE,0.668298066
+"And I said, free bagel.",95260,98162,NEUTRAL,0.53033644
+"And he said, I don't want to wait in line.",98737,101947,NEUTRAL,0.561325371
+"And I was like, free bagel.",102130,105477,POSITIVE,0.544448256
+"And he says, no, it's too long.",105657,108202,NEGATIVE,0.564251423
+And that's when I realized that there's two ways to see the world.,108370,112025,POSITIVE,0.568377912
+"Some people see the thing that they want, and some people see the thing that prevents them from getting the thing that they want.",112387,119677,NEUTRAL,0.496632397
+I could only see the bagels.,119845,121812,NEUTRAL,0.612719893
+He could only see the line.,121962,123725,NEUTRAL,0.63855201
+Because the rule is you can go after whatever you want.,124162,127552,NEUTRAL,0.792185783
+You just cannot deny anyone else to go after whatever they want.,127645,132217,NEUTRAL,0.702872872
+You don't have to do it the way everybody else has done it.,132340,134917,NEUTRAL,0.587753773
+You can do it your way.,135040,136462,NEUTRAL,0.511152029
+You can break the rules.,136600,138057,NEUTRAL,0.600417912
+You just can't get in the way of somebody else getting what they want.,138147,141562,NEUTRAL,0.592762411
+Rule number two.,141700,143000,NEUTRAL,0.759055138
+"In the 18th century, there was something that spread across Europe and eventually made its way to America called puerto fever, also known as the black death of childbed.",143437,155037,NEGATIVE,0.495595783
+"Basically, what was happening is women were giving birth and they would die within 48 hours after giving birth.",155187,163767,NEGATIVE,0.854756355
+"This black death of childbirth was the ravage of Europe, and it got worse and worse and worse over the course of over a century.",163902,172902,NEGATIVE,0.967770338
+And these doctors and men of science wanted to study and try and find the reason for this black death of childbirth.,173007,180252,NEUTRAL,0.621605814
+"And so they got to work studying, and they would study the corpses of the women who had died, and in the morning they would conduct autopsies, and then in the afternoon, they would go and deliver babies and finish their rounds.",180282,192597,NEUTRAL,0.563734651
+And it wasn't until somewhere in the mid 18 hundreds that Oliver Wendell Holmes realized that all of these doctors who were conducting autopsies in the morning weren't washing their hands before they delivered babies in the afternoon.,192717,207537,NEUTRAL,0.513405025
+"And he pointed it out and said, guys, you're the problem.",207687,211850,NEGATIVE,0.749152243
+"And they ignored him and called him crazy for 30 years until finally somebody realized that if they simply washed their hands, it would go away.",212737,225352,NEGATIVE,0.83858484
+And that's exactly what happened when they started sterilizing their instruments and washing their hands.,225520,230632,NEGATIVE,0.539821923
+The Black death of childbed disappeared.,230710,233892,NEGATIVE,0.641734779
+The lesson here is sometimes you're the problem is take accountability for your actions.,234027,241242,NEGATIVE,0.485894501
+You can take all the credit in the world for the things that you do right as long as you also take responsibility for the things you do wrong.,241377,249667,NEUTRAL,0.569947541
+It must be a balanced equation.,249715,251742,NEUTRAL,0.786812901
+You don't get it one way and not the other.,251877,254242,NEGATIVE,0.600472152
+You get to take credit when you also take accountability.,254365,258402,NEUTRAL,0.73590672
+Lesson three take care of each other.,258582,261500,NEUTRAL,0.733224988
+The United States Navy Seals are perhaps the most elite warriors in the world.,261937,268400,POSITIVE,0.950007498
+"And one of the Seals was asked, who makes it through the selection process?",268987,275692,NEUTRAL,0.880997241
+Who is able to become a Seal?,275815,279222,NEUTRAL,0.8557024
+"And his answer was, I can't tell you the kind of person that becomes a Seal.",279342,284802,NEUTRAL,0.494414717
+"I can't tell you the kind of person that makes it through buds, but I can tell you the kind of people who don't become Seals, he says.",284832,292747,NEUTRAL,0.654902279
+"The guys that show up with huge bulging muscles covered in tattoos, who want to prove to the world how tough they are, none of them make it through, he said.",292780,302827,NEGATIVE,0.518682659
+"The preening leaders who like to delegate all their responsibility and never do anything themselves, none of them make it through, he says.",302845,310897,NEGATIVE,0.715246081
+Some of the guys that make it through are skinny and scrawny.,310930,314352,NEUTRAL,0.538669586
+"He said, some of the guys that make it through, you will see them shivering out of fear.",314457,319862,NEGATIVE,0.4860695
+He says.,320212,320842,NEUTRAL,0.652725875
+"However, all the guys that make it through when they find themselves physically spent, emotionally spent, when they have nothing left to give physically or emotionally, somehow, some way, they are able to find the energy to dig down deep inside themselves, to find the energy to help the guy next to them, they become Seals, he said.",320890,347527,NEUTRAL,0.731804788
+You want to be an elite warrior.,347695,349272,NEUTRAL,0.751017153
+It's not about how tough you are.,349317,351142,NEUTRAL,0.655032456
+It's not about how smart you are.,351265,353197,NEUTRAL,0.570085943
+It's not about how fast you are.,353305,355372,NEUTRAL,0.722926021
+"If you want to be an elite warrior, you better get really, really good at helping the person to the left of you and helping the person to the right of you, because that's how people advance in the world.",355480,366532,POSITIVE,0.67365694
+The world is too dangerous and the world is too difficult for you to think that you can do these things alone.,366685,371622,NEGATIVE,0.94741869
+"If you find your spark, I commend you.",371742,373912,POSITIVE,0.910943985
+"Now, who are you going to ask for help and when are you going to accept help?",373975,377122,NEUTRAL,0.749812722
+When it's offered.,377155,378102,NEUTRAL,0.716430306
+Learn that skill.,378207,379632,NEUTRAL,0.643770933
+Learn by practicing helping each other.,379797,382477,POSITIVE,0.592836022
+It'll be the single most valuable thing you ever learn in your entire life.,382645,387007,POSITIVE,0.95669663
+To accept help when it's offered and to ask for it when you know that you can't do it.,387160,391507,NEUTRAL,0.614073336
+"The amazing thing is, when you learn to ask for help, you'll discover that there are people all around you who've always wanted to help you.",391660,398122,POSITIVE,0.942482829
+They just didn't think you needed it because you kept pretending that you had everything under control.,398155,402427,NEGATIVE,0.555825293
+"And the minute you say, I don't know what I'm doing.",402595,405712,NEGATIVE,0.542353749
+I'm stuck.,405775,406602,NEGATIVE,0.799593925
+I'm scared.,406707,407787,NEGATIVE,0.78799367
+"I don't think I can do this, you will find that lots of people who love you will rush in and take care of you.",407937,415297,NEUTRAL,0.473590553
+But that will only happen if you learn to take care of them first.,415480,418942,NEUTRAL,0.620679736
+Lesson four.,419140,420352,NEUTRAL,0.769301355
+Nelson Mandela is a particularly special case study in the leadership world because he is universally regarded as a great leader.,420520,430662,POSITIVE,0.902478695
+"You can take other personalities, and depending on the nation you go to, we have different opinions about other personalities.",430812,436512,NEUTRAL,0.819656253
+But Nelson Mandela across the world is universally regarded as a great leader.,436587,441567,POSITIVE,0.798577726
+"And he was asked one day, how did you learn to be a great leader?",441702,446162,NEUTRAL,0.649654329
+"And he responded that he would go with his father to tribal meetings, and he remembers two things when his father would meet with other elders.",446737,456237,NEUTRAL,0.924857259
+"One, they would always sit in a circle, and two, his father was always the last to speak.",456387,465172,NEUTRAL,0.812214494
+You will be told your whole life that you need to learn to listen.,465355,468562,NEUTRAL,0.724753022
+I would say that you need to learn to be the last to speak.,468700,472042,NEUTRAL,0.724446774
+I see it in boardrooms every day of the week.,472165,474532,NEUTRAL,0.728725672
+"Even people who consider themselves good leaders, who may actually be decent leaders, will walk into a room and say, here's the problem.",474610,480817,NEGATIVE,0.495524526
+"Here's what I think, but I'm interested in your opinion.",480865,482772,NEUTRAL,0.600392759
+Let's go around the room.,482817,483787,NEUTRAL,0.818266273
+It's too late.,483850,484992,NEGATIVE,0.673139215
+The skill to hold your opinions to yourself until everyone has spoken does two things.,485127,490537,NEUTRAL,0.83121711
+"One, it gives everybody else the feeling that they have been heard.",490675,494975,NEUTRAL,0.730264366
+It gives everyone else the ability to feel that they have contributed.,495637,500127,POSITIVE,0.599612176
+"And two, you get the benefit of hearing what everybody else has to think before you render your opinion to keep your opinions to yourself.",500307,507502,NEUTRAL,0.690827429
+"If you agree with somebody, don't nod yes.",507595,510667,NEUTRAL,0.700873733
+If you disagree with somebody.,510865,512557,NEGATIVE,0.490458548
+Don't nod.,512710,513447,NEUTRAL,0.620610774
+No.,513492,514012,NEUTRAL,0.493618667
+Simply sit there.,514150,515167,NEUTRAL,0.683562756
+Take it all in.,515215,515902,NEUTRAL,0.745615184
+And the only thing you're allowed to do is ask questions so that you can understand what they mean and why they have the opinion that they have.,515920,523657,NEUTRAL,0.81212014
+"You must understand from where they are speaking why they have the opinion they have, not just what they are saying.",523735,532100,NEUTRAL,0.776459515
+"One afternoon, I went to buy a cup of coffee, and there was a barista by the name of Noah who was serving me.",533512,538627,NEUTRAL,0.811267495
+Noah was fantastic.,538720,540747,POSITIVE,0.944792092
+"He was friendly and fun, and he was engaging with me.",540867,544702,POSITIVE,0.966146767
+"And I had so much fun buying a cup of coffee, I actually think I gave 100% tip, right?",544720,549292,POSITIVE,0.976478219
+He was wonderful.,549415,550587,POSITIVE,0.974473059
+"So, as is my nature, I asked Noah, do you like your job?",550737,554842,NEUTRAL,0.85733062
+"And without skipping a beat, Noah says, I love my job.",554965,558577,POSITIVE,0.944071531
+And so I followed up.,558745,559927,NEUTRAL,0.768739343
+"I said, what is it that the Four Seasons is doing that would make you say to me, I love my job?",559945,566317,POSITIVE,0.50909543
+"And without skipping a beat, Noah said, throughout the day, managers will walk past me and ask me how I'm doing, if there's anything that I need to do my job better.",566440,575572,NEUTRAL,0.633102775
+"He said, not just my manager, any manager.",575680,579147,NEUTRAL,0.768707037
+And then he said something magical.,579342,581247,POSITIVE,0.501991987
+"He says, I also work at Caesar's Palace, and at Caesars Palace, the managers are trying to make sure we're doing everything right.",581442,589147,NEUTRAL,0.627603233
+They catch us when we do things wrong.,589180,591547,NEGATIVE,0.808011353
+"He says, When I go to work there, I like to keep my head under the radar and just get through the day so I can get my paycheck.",591730,598512,NEUTRAL,0.667042971
+"He says, Here at the Four Seasons, I feel I can be myself.",598662,603350,NEUTRAL,0.498317152
+So we in leadership are always criticizing the people.,603787,606382,NEGATIVE,0.838975072
+"We're always saying, we got to get the right people on the bus.",606460,608647,NEUTRAL,0.725488365
+I got to fill my team.,608680,610147,NEUTRAL,0.673253834
+I got to get the right people.,610180,611167,NEUTRAL,0.624096572
+"But the reality is, it's not the people, it's the leadership.",611215,614562,NEGATIVE,0.59083873
+"If we create the right environment, we will get people like Noah.",614712,618852,POSITIVE,0.627447963
+"At the Four Seasons, if we create the wrong environment, we will get people like Noah.",618957,624177,NEGATIVE,0.734450698
+"At Caesar's Palace, there was a former undersecretary of defense who was invited to give a speech at a large conference, about 10 people.",624357,633247,NEUTRAL,0.826500475
+And he was standing on the stage with his cup of coffee and a Styrofoam cup.,633355,638067,NEUTRAL,0.799787223
+"And he took a sip of his coffee, and he smiled.",638127,640242,POSITIVE,0.755470812
+"And he looked down at the coffee, and then he went off script, and he said, you know, last year I spoke at this exact same conference.",640302,648887,NEUTRAL,0.688929856
+"Last year, I was still the undersecretary.",649237,651717,NEUTRAL,0.862694263
+"And when I spoke here last year, they flew me here, business class.",651852,656077,NEUTRAL,0.830198586
+"And when I arrived at the airport, there was somebody waiting for me to take me to my hotel and handed me a cup of coffee in a beautiful ceramic cup.",656245,666362,POSITIVE,0.882446587
+"He says, I'm no longer the undersecretary.",666712,669057,NEUTRAL,0.764156401
+"I flew here, coach.",669222,670662,NEUTRAL,0.839767814
+"I took a taxi to my hotel, and I checked myself in.",670812,674032,NEUTRAL,0.856386244
+"When I came down the lobby this morning, I took another taxi to this venue.",674185,678882,NEUTRAL,0.897151709
+"And when I asked someone, do you have any coffee?",678972,681912,NEUTRAL,0.846418798
+He pointed to the coffee machine in the corner.,681987,684252,NEUTRAL,0.878829777
+And I poured myself a cup of coffee into this here Styrofoam cup.,684357,689442,NEUTRAL,0.840120554
+"He says, the lesson is, the ceramic cup was never meant for me.",689577,694162,NEGATIVE,0.732328653
+It was meant for the position I held.,694300,696887,NEUTRAL,0.839954257
+I deserve a styrofoam cup.,697312,699957,NEUTRAL,0.458747149
+"Remember this as you gain fame, as you gain fortune, as you gain position, and seniority people will treat you better, they will hold doors open for you.",700122,711847,POSITIVE,0.783639967
+They will get you a cup of tea and coffee without you even asking.,711955,715252,NEUTRAL,0.681881905
+None of that stuff is meant for you.,715420,717592,NEGATIVE,0.829285562
+That stuff is meant for the position you hold.,717715,720367,NEUTRAL,0.806018829
+It is meant for the level that you have achieved of leader or success or whatever you want to call it.,720565,726622,NEUTRAL,0.502687991
+But you will always deserve a Styrofoam cup.,726730,731547,POSITIVE,0.504450917
+Remember that lesson of humility and gratitude.,731667,734622,NEUTRAL,0.640203834
+You can accept all the free stuff.,734667,736312,NEUTRAL,0.550305843
+You can accept all the perks.,736375,738162,POSITIVE,0.705361545
+Absolutely.,738312,738892,NEUTRAL,0.465044975
+"You can enjoy them, but just be grateful for them and know that they're not for you.",739015,743947,POSITIVE,0.533164859
+"And so I keep meeting these wonderful, fantastic, idealistic, hardworking, smart kids.",744130,749392,POSITIVE,0.986930609
+They just graduated school.,749440,750742,NEUTRAL,0.780940473
+They're in their entrylevel job.,750790,752257,NEGATIVE,0.492595464
+"I sit down with them and I go, how's it going?",752335,754072,NEUTRAL,0.899646103
+"They go, I think I'm going to quit.",754105,755847,NEGATIVE,0.559665799
+"I'm like, why?",755967,757147,NEGATIVE,0.55450654
+"They're like, I'm not making an impact.",757330,759747,NEGATIVE,0.739980161
+"I'm like, You've been here eight months.",759867,761750,NEUTRAL,0.696356297
+"It's as if they're standing at the foot of a mountain and they have this abstract concept called impact that they want to have in the world, which is the summit.",763912,771402,NEUTRAL,0.634596467
+What they don't see is the mountain.,771507,772977,NEUTRAL,0.587377071
+"I don't care if you go up the mountain quickly or slowly, but there's still a mountain.",773082,776532,NEUTRAL,0.562674284
+And so what this young generation needs to learn is patience.,776697,780062,NEUTRAL,0.752928972
+"That some things that really, really matter, like love or job fulfillment, joy, love of life, self confidence, a skill set, any of these things, all of these things take time.",780412,794450,NEUTRAL,0.550370693
+"Sometimes you can expedite pieces of it, but the overall journey is arduous and long and difficult.",795262,803242,NEUTRAL,0.575634003
+All you need to do is have the will and the desire to want to understand what drives and inspires you.,803440,808500,NEUTRAL,0.586578846
+"Do you know, if you study people who are at the pinnacle of anything, you recognize that to get there, motivation was maybe 1% of the formula.",387,11517,NEUTRAL,0.734521687
+"Maybe 1%, and I'll prove it to you.",11577,16550,NEUTRAL,0.726157784
+"If you want to become a worldclass bodybuilder, say an IFBB pro.",16912,21275,NEUTRAL,0.711163461
+"What that takes is you have to train twice a day, six days a week.",22612,27575,NEUTRAL,0.811773717
+You have to have eight meals a day.,28012,30275,NEUTRAL,0.85251683
+Your calorie intake is regimented.,30637,32997,NEUTRAL,0.752829432
+Your meals are preplanned and precooked.,33117,35612,NEUTRAL,0.626614451
+You don't eat according to taste.,36562,38892,NEGATIVE,0.548535168
+You eat according to function.,38952,41075,NEUTRAL,0.843463421
+"So my trainer, for instance, will eat and go, what are you eating?",42262,46262,NEUTRAL,0.931984186
+"And he's having the most he'll have chicken that was boiled without salt, and he'll have like half a kilo of it.",46687,53587,NEUTRAL,0.826653063
+What are you doing?,53725,54922,NEUTRAL,0.824181139
+"He says, I'm taking in protein.",55105,56502,NEUTRAL,0.867071152
+He doesn't say I'm eating.,56532,57477,NEUTRAL,0.716293633
+"He says, I'm taking in protein.",57507,59667,NEUTRAL,0.867071152
+"For him, it's functional.",59802,60927,NEUTRAL,0.584744871
+It's not taste based.,60957,62300,NEUTRAL,0.592644691
+"Then you would probably have to train for a minimum, and this is if you are a genetic phenomenon, you'd have to train for a minimum of ten years before you could get on a stage and compete at an average level with an average global bodybuilder.",64687,82392,NEUTRAL,0.642669559
+Average.,82452,83312,NEUTRAL,0.48217994
+"Okay, so why am I telling you this?",84787,89000,NEUTRAL,0.702323556
+"All of us here at the beginning of a new year, write these things called New Year's resolutions and then New Year's resolutions.",90937,98802,NEUTRAL,0.699320614
+"Number one, make more money.",98832,100625,NEUTRAL,0.614206374
+Yeah.,101137,101900,NEUTRAL,0.549144745
+"Number two, change my boyfriend.",102937,106187,NEUTRAL,0.581083
+"Number three, get into shape.",107212,109712,NEUTRAL,0.742136657
+"Number three, get into shape is somewhere in the top three.",110437,113975,POSITIVE,0.57499826
+So what do you do?,114337,115312,NEUTRAL,0.801124573
+You go to the gym.,115375,116052,NEUTRAL,0.834578216
+You get a gym membership.,116082,117437,NEUTRAL,0.771728814
+Yeah.,118162,118925,NEUTRAL,0.549144745
+"You go to the local Nike store and you buy, like, all of your gym gear.",120187,124377,NEUTRAL,0.512866199
+You are motivated.,124557,125517,POSITIVE,0.725457549
+You are inspired.,125577,126552,POSITIVE,0.725942016
+You are going to the damn gym.,126657,129147,NEGATIVE,0.852163076
+You go to YouTube.,129342,130302,NEUTRAL,0.787281871
+You subscribe to all of the fitness channels.,130332,132207,NEUTRAL,0.85146296
+You go to Instagram.,132297,133272,NEUTRAL,0.809051216
+You follow all of the fitness models.,133317,134937,NEUTRAL,0.82823503
+You are motivated.,135012,136137,POSITIVE,0.725457549
+You are going to the damn gym.,136212,138477,NEGATIVE,0.852163076
+You're going to get in shape.,138507,139857,POSITIVE,0.527267635
+That's what you're going to do.,140022,141500,NEUTRAL,0.767191231
+The people you're following on YouTube have been working on for a minimum of five years to look like that.,141937,146392,NEUTRAL,0.734246314
+"So you have the incorrect understanding that after a month of working on it, you're going to look like them.",146590,151552,NEGATIVE,0.642403305
+So what happens in the first month?,151720,152977,NEUTRAL,0.879909754
+You're excited.,152995,153447,POSITIVE,0.851687014
+"You go to gym every single month, and you take the pains and your body is sore, but I'm excited.",153492,158547,POSITIVE,0.941962898
+I'm going to gym.,158592,159177,NEUTRAL,0.583806992
+Then life happens.,159207,160325,NEUTRAL,0.680919707
+Company doesn't make money.,161137,162367,NEGATIVE,0.763226032
+You don't make your targets.,162415,163782,NEGATIVE,0.489312768
+You fall a bit ill.,163872,165202,NEUTRAL,0.521199524
+"Something happens, and all of a sudden, you stop going to gym for a day.",165370,168127,NEGATIVE,0.511389434
+"A day becomes two, two becomes a week.",168145,170092,NEUTRAL,0.799233913
+"Now all of a sudden, you've had a gym membership for three months, and you haven't been in that time.",170215,173825,NEUTRAL,0.54038471
+What did you miss?,174862,175942,NEUTRAL,0.571753085
+You thought motivation was the formula.,176065,178122,NEUTRAL,0.633027017
+Winners don't need motivation.,178242,179772,NEUTRAL,0.640030742
+Winners need discipline.,179892,181337,NEUTRAL,0.755449712
+Discipline is about getting it done because it needs to get done.,182437,184852,NEUTRAL,0.764070928
+"Not because I feel like it's, not because I'm motivated for it.",184870,188600,NEUTRAL,0.647097349
+You think Nelson Mandela is motivated to spend 27 years in prison?,190012,193337,NEGATIVE,0.557570696
+You think Martin Luther King was motivated to march across the states and proclaim freedom?,194212,198962,NEUTRAL,0.781644881
+"If you look at people that change the world, they're not doing it because they're motivated.",200662,204087,NEUTRAL,0.521870852
+They're doing it because they made a commitment to do it.,204237,206527,NEUTRAL,0.693781495
+And they disciplined to see it through.,206545,209002,NEUTRAL,0.679912508
+"Discipline is far more important than motivation, which is why you got to be careful the decisions you make, because once you make the decision, you have to see that decision through.",209170,216382,NEUTRAL,0.667404056
+"Like my mentor says, first we make the decisions, then the decisions make us.",216535,220250,NEUTRAL,0.744319618
+Be very careful the decisions you make.,221137,223027,NEUTRAL,0.760817766
+Be very careful the commitments you make.,223045,225037,NEUTRAL,0.775200844
+"Motivation, I'm telling you now, is completely overrated.",225175,228822,NEGATIVE,0.907566071
+It's important.,229017,229852,NEUTRAL,0.548490465
+Don't get me wrong.,229945,230932,NEUTRAL,0.627904356
+"You know, we meet according to motivation.",231085,232767,NEUTRAL,0.708434224
+"We feel good, raw, but that will fade.",232827,236322,POSITIVE,0.479985952
+You need a stronger will and a deeper commitment to see things through.,236442,241100,POSITIVE,0.559196234
+One of my key phrases for the whole day disciplines work miracle.,244900,249875,POSITIVE,0.660678983
+Disciplines work miracle.,251725,254225,NEUTRAL,0.624703348
+And here's the first piece that works miracle.,257162,259342,POSITIVE,0.610593021
+Number one.,259402,260282,NEUTRAL,0.602459967
+Do what you can.,260435,261825,NEUTRAL,0.644036353
+Do.,264137,264497,NEUTRAL,0.583164692
+Not let neglect grab you by the throat.,264530,266862,NEGATIVE,0.64984405
+"Don't let neglect stall you on your path toward prosperity and health, being able to become powerful, influential, rich beyond wildest imagination.",267362,279847,POSITIVE,0.901187956
+Don't neglect what you can do.,279967,282000,NEUTRAL,0.668925405
+"If you can read, read.",283262,284732,NEUTRAL,0.573634088
+"If you can change, change.",284810,286472,NEUTRAL,0.661063015
+"If you can grow, grow.",286580,287987,POSITIVE,0.670772433
+"If you can take one step, take one step.",288050,290387,POSITIVE,0.598013222
+Do not neglect to do whatever you can do at the moment.,290525,294525,NEUTRAL,0.579401314
+"Of course, you can't run a multibillion dollar business today.",296012,299252,NEGATIVE,0.618505001
+Mark couldn't either ten years ago.,299345,301425,NEUTRAL,0.575209498
+Mark couldn't either five years ago.,302012,304425,NEUTRAL,0.567189097
+"But I'm telling you today, he can do it.",305162,307322,POSITIVE,0.710122228
+"Because step by step, year by year, he took on what he could do.",307355,312392,NEUTRAL,0.741472781
+He didn't neglect it.,312440,313577,NEUTRAL,0.732960999
+He did the meetings he could do.,313595,315287,NEUTRAL,0.668689191
+He made the calls he could make.,315425,317267,NEUTRAL,0.702132046
+"He read the books he could read, he took the classes he could take.",317315,321827,NEUTRAL,0.775628924
+"And step by step, he got himself ready.",321920,324600,NEUTRAL,0.685722172
+"I'm telling you, do not neglect to do whatever you can do, because it'll work miracles of personal development first, productivity second.",324962,336000,POSITIVE,0.810699999
+"Now, do what you can.",336737,338147,NEUTRAL,0.734288573
+Here's number two.,338180,339032,NEUTRAL,0.802897811
+Do the best you can.,339110,340650,POSITIVE,0.658164263
+"If it's a foggy night and you can only see 100ft, how can you see another 100ft?",341687,348037,NEGATIVE,0.495619982
+Answer walk the first 100ft.,348112,350862,NEUTRAL,0.88074404
+"Walk as far as you can see, and then you can see some more.",352262,356402,NEUTRAL,0.579137802
+"And walk as far as you can see, and then you can see some more.",356495,360017,NEUTRAL,0.629429519
+"So what you've picked up here, just do it as far as you can see it, and I promise you, if you'll execute as far as you can see it, you'll be able to see more.",360215,369137,POSITIVE,0.557553291
+"Do that, then you can see more.",369200,371027,NEUTRAL,0.649101853
+"And finally, get in tune of doing the best you can, and you'll have the activity that will develop the disciplines, that will set the sail so that you can say, it doesn't matter how the wind blows.",371195,385102,POSITIVE,0.709786773
+I'm prepared.,385282,386562,NEUTRAL,0.553140759
+"For some people, they see discipline as sort of an ugly word, you know, don't talk to me about discipline.",387887,394147,NEGATIVE,0.86859113
+But what you must understand is discipline is a most incredible creative force.,394342,402762,POSITIVE,0.77984798
+Discipline builds a career.,403787,405517,NEUTRAL,0.67823267
+Discipline develops good health.,405652,407402,POSITIVE,0.688628495
+Discipline forms the most incredible marriage.,407570,410242,POSITIVE,0.916369438
+Discipline puts together a friendship that won't quit forever.,410377,413712,POSITIVE,0.674474835
+Discipline develops skills that can be magnified and touch the world.,414662,420000,POSITIVE,0.726322234
+Disciplines opens up music.,420362,422312,NEUTRAL,0.714060724
+You can't have incredible music without discipline.,422450,425337,NEUTRAL,0.530538857
+"In fact, we call them the disciplines.",426362,429397,NEUTRAL,0.867137253
+"We call architecture and music, and we call playing an instrument.",429592,435837,NEUTRAL,0.814729095
+"We call sculpturing, we call painting, we call writing composing.",436187,442777,NEUTRAL,0.837450862
+We call those the disciplines.,442957,445212,NEUTRAL,0.820403695
+"And the disciplines gives us the indication that, yes, it doesn't come except by discipline, but it also means that the discipline is the open door to the creative process, to turn nothing into something and to turn imagination into reality.",445712,461962,NEUTRAL,0.77016443
+So here's what you must learn to do appreciate the disciplines and welcome the disciplines.,462112,467187,POSITIVE,0.511122584
+Here's a good question to ask.,467537,469097,POSITIVE,0.699337602
+What other discipline could I begin that would open up a whole new expression in my life of turning imagination into reality?,469205,479347,NEUTRAL,0.731570959
+"Without discipline, there is no enterprise.",479542,481792,NEUTRAL,0.564219832
+"Without discipline, there is no magnificent structure.",481927,484687,NEUTRAL,0.527984917
+"Without discipline, there is no music.",484762,486722,NEUTRAL,0.600480914
+"Without discipline, there is no health.",486905,489000,NEUTRAL,0.498587668
+"Without discipline, there is no advantage.",489362,492292,NEUTRAL,0.616752803
+There is no future.,492352,493575,NEGATIVE,0.633163273
+"So discipline is all when it comes to imagination, having something real, believing in it and turning it into reality, the key to development is to be all that you can possibly be.",493937,506012,POSITIVE,0.527844429
+I don't know what your talents are.,506075,508022,NEGATIVE,0.544816792
+"I don't know what your skills are, but here's what I probably am right on that.",508055,514427,NEUTRAL,0.731577814
+You're behind on an accelerated effort toward your full development.,514445,520102,NEUTRAL,0.597537696
+"I would suggest that now, for some of you I know that's probably really not true.",520282,526172,NEUTRAL,0.497161746
+But even as I look at my own life because I'm tempted to procrastinate just like everybody else.,526355,534122,NEGATIVE,0.63119936
+I should have written 30 books by now.,534230,535997,NEUTRAL,0.619137466
+I've only written four or five.,536030,537900,NEUTRAL,0.800748944
+"I should have done a lot of things, but I haven't.",538562,541087,NEGATIVE,0.53593725
+I got distracted.,541237,542422,NEGATIVE,0.710342407
+And all of us have these challenges.,542467,545037,NEUTRAL,0.684219837
+But what could I become?,545387,547275,NEUTRAL,0.726579785
+What could I become?,547712,549017,NEUTRAL,0.752353072
+I had one of my dearest friends I've lost and he died at age 53 one day.,549140,556607,NEGATIVE,0.846615613
+And he drank a little too much.,556685,558675,NEGATIVE,0.722241879
+"David drank a little too much, but he did all kinds of things.",559187,561797,NEUTRAL,0.582406342
+He was a builder and he was a dreamer and he did a lot of things.,561830,565125,NEUTRAL,0.504380524
+"But his drinking sort of kept him in a fog for, like, years and years.",565937,570962,NEUTRAL,0.493254751
+"About six years ago, he was sitting at the yacht club and he was in a fog.",571100,577552,NEUTRAL,0.80494988
+"And suddenly it occurred to him, I wonder what I could have accomplished all these years if I hadn't have been in this sort of foggy.",577732,587362,NEUTRAL,0.604372501
+"State and he said, that did it.",587437,591000,NEUTRAL,0.793441832
+"And the last six years before he died, he was free and he accomplished some incredible things that last six years.",591362,599175,POSITIVE,0.922288001
+"Being all that you can be and not let habits drag you down, not let things sidetrack you from the full development of what you have the capable of being.",601412,612150,POSITIVE,0.49906525
+What all could your heart encompass?,613037,614722,NEUTRAL,0.726830363
+If you really had the chance and you really had the disciplines and really got to it?,614767,619517,NEUTRAL,0.745828092
+What could you really become?,619565,621257,NEUTRAL,0.6786443
+What could you earn?,621410,622702,NEUTRAL,0.832932055
+How healthy could you really be?,622807,624527,NEUTRAL,0.617695868
+How many books could you write?,624620,625802,NEUTRAL,0.887990355
+How many poems could you write?,625820,627437,NEUTRAL,0.897764206
+So here's what I would ask of you.,627575,628997,NEUTRAL,0.872696579
+"If you feel that you're a little bit stalled wherever you are in your progress, I'm asking you to correct that.",629030,636572,NEUTRAL,0.569456935
+I'm asking you to see if you can't possibly be on a more accelerated track toward your possibilities and your full development.,636755,647487,POSITIVE,0.626470208
+Here's what life is all about to become all that we can possibly be.,647912,652487,POSITIVE,0.720594108
+The full development of all of your potential.,652625,654622,POSITIVE,0.689845562
+That's number one.,654667,655322,NEUTRAL,0.548376322
+Number two is the wise use of all of your resources.,655355,658147,NEUTRAL,0.565358281
+That's what life is all about.,658192,659850,POSITIVE,0.790299952
+Discipline.,662312,663312,NEUTRAL,0.709387183
+"If there is a magic word that stands out above all the rest, this is the one discipline.",663662,669427,NEUTRAL,0.556432724
+"Discipline is the bridge between thoughts and accomplishment, the bridge between inspiration and value, achievement, the bridge between necessity and productivity.",669607,680937,POSITIVE,0.496521831
+"Remember, all good things are upstream.",681737,684322,POSITIVE,0.755388319
+The passing of time takes us to drifting.,684517,687067,NEUTRAL,0.798087537
+"And drifting only brings us the negative, the disastrous, the disappointment and the failure.",687202,692562,NEGATIVE,0.902133465
+Failure is not a cataclysmic event.,692912,695327,NEGATIVE,0.67234081
+"It is not generally the result of one major incident, but rather a long list of accumulated little failings.",695495,702847,NEGATIVE,0.859934151
+"Failing in life is failing to think today, failing to act today, failing to care, to strive, to climb, to learn, to keep trying day by day.",703042,713850,NEGATIVE,0.749498069
+"If your goal requires that you write ten letters today and you write only three, you are down seven letters.",714212,721177,NEUTRAL,0.619558334
+"If you want to make five calls and you only make one, you are down four on calls.",721357,727192,NEUTRAL,0.625985086
+"If your plan calls for saving $10 today and you save none, you're down $10 today.",727327,734100,NEGATIVE,0.509017527
+Now the danger is looking at an undisciplined day and concluding that no great harm has been done.,734537,740267,NEGATIVE,0.525292635
+It doesn't seem like such a bad day.,740465,743117,POSITIVE,0.835307956
+"But add up these days to make a year, and then add up those years to make a lifetime.",743315,748957,NEUTRAL,0.761660516
+And perhaps you can now see how repeating today's small failures can easily turn your life into a major disaster.,749122,757287,NEGATIVE,0.91185528
+"Success, on the other hand, is just the same process in reverse.",757862,761677,NEUTRAL,0.637669265
+"If you plan to make ten calls and you end the day making 15, now you're up five calls.",761857,768537,NEUTRAL,0.601822555
+"If you then get up a few on letters, move up the savings numbers, you can see what a massive difference it could make in a year and what wealth and accomplishment awaits for a lifetime.",769262,780837,POSITIVE,0.810302913
+"Discipline is like a set of magic keys that unlocks all the doors of wealth, happiness, sophistication, culture, high self esteem, pride, joy, accomplishment, satisfaction and success.",781637,795675,POSITIVE,0.857129753
+The first key to discipline is awareness of the need for and the value of discipline.,796337,801832,NEUTRAL,0.820012569
+And especially the discipline to make the changes.,801997,805125,NEUTRAL,0.805565476
+"What will it take, what must I do and what must I become to get all I want from my life?",805487,812025,NEUTRAL,0.780357063
+"The second key is the willingness, more than that, the eagerness to maintain your new discipline deliberately, wisely, consistently.",813137,822087,POSITIVE,0.500169277
+And the third key to discipline is the commitment to master the circumstances of your daily life.,822587,828197,NEUTRAL,0.851730287
+To see and harness the opportunities to make something of the sun and the rain.,828380,833407,POSITIVE,0.734727681
+The good as well as what comes in the guise of misfortune.,833572,837987,NEUTRAL,0.621782362
+"Discipline does many things, but most important of all is what it does for you.",838562,843707,NEUTRAL,0.558001161
+It makes you feel better about yourself.,843860,846450,POSITIVE,0.894493639
+Even the smallest discipline can have an incredible effect on your attitude.,846812,851767,NEUTRAL,0.478242904
+"And the good feeling you get, that surging feeling of self worth that comes from starting a new discipline, is almost as good as the feeling that comes from the accomplishment of the discipline.",851902,863487,POSITIVE,0.953899682
+"Second, a new discipline immediately alters your life direction.",864212,868287,NEUTRAL,0.787158966
+You don't change destinations immediately.,868637,871237,NEUTRAL,0.699446976
+That is yet to come.,871387,872792,NEUTRAL,0.751113594
+But you can change direction immediately.,872915,876322,NEUTRAL,0.812356293
+And direction is very important.,876442,878550,NEUTRAL,0.556494951
+"Third, discipline cooperates with nature.",879587,882762,NEUTRAL,0.68301326
+Everything strives.,883337,884602,NEUTRAL,0.591617227
+It is a common life function.,884707,886575,NEUTRAL,0.746889412
+How tall will a tree grow?,887162,888902,NEUTRAL,0.896339476
+As tall as it can.,889070,890625,NEUTRAL,0.593762577
+Everything strives to become all it can possibly be.,891062,894692,POSITIVE,0.66822052
+And that striving to become is what discipline is all about.,894815,898425,NEUTRAL,0.720071614
+"Disciplining ourselves to fulfill our natural potential, to become all that we can be.",898862,904350,POSITIVE,0.653849483
+"And finally, discipline attracts opportunity.",905237,908175,POSITIVE,0.580515563
+Opportunity is always looking for ambition and skill in action.,908687,912922,NEUTRAL,0.615387082
+Discipline taps the unlimited power of commitment.,913117,916372,NEUTRAL,0.575606227
+"The human will in action, driven by inspiration, enticed by desire, tempered by reason, guided by intelligence can bring you to that high and lofty place called the good life.",916567,929175,POSITIVE,0.831952095
+So start the new process.,929837,931592,NEUTRAL,0.775272369
+"You can begin a new habit, no matter how small it is.",931790,934787,POSITIVE,0.722945809
+Small isn't important.,934925,936467,NEUTRAL,0.510540903
+Whether or not you start and whether or not you continue are all that is important.,936665,941700,NEUTRAL,0.825074792
+"So, to have a prosperous life, start a prosperity plan.",942587,946142,POSITIVE,0.781913996
+"To become wealthy, start a wealth plan.",946340,948842,NEUTRAL,0.5940485
+"Remember, you don't have to be wealthy to have a wealth plan.",949040,952247,NEUTRAL,0.756185412
+A person with no means can have a rich plan.,952430,955367,NEUTRAL,0.564426661
+"If you are ill, start a health plan.",955565,957797,NEUTRAL,0.536354065
+"If you don't have energy, start an energy plan.",957980,960825,NEUTRAL,0.600093782
+"If you don't feel good, start a feel good plan.",961412,964412,NEUTRAL,0.537732005
+"If you're not smart, start a smart plan.",964550,967037,NEGATIVE,0.519902885
+"If you can't, start a can plan.",967175,969557,NEUTRAL,0.674082756
+"If you haven't started a have plan, anyone can.",969710,973800,NEUTRAL,0.754962981
+Even a bad person can start hearing good messages and reading good books.,974312,979362,POSITIVE,0.661125243
+"Recognize that the start of the better life, the happy life, the wealthy life is today.",979937,985875,POSITIVE,0.966505349
+This is exciting.,986312,987337,POSITIVE,0.985666573
+Both the process and the result can begin today.,987412,990375,NEUTRAL,0.818954527
+Start the new journey.,990962,992122,NEUTRAL,0.570575416
+"Today, if you think of a new idea, today is the day to begin the discipline of putting that idea into action.",992167,999687,POSITIVE,0.607141852
+"Set this day up as a long, busy, exciting start for your new life.",1000487,1005150,POSITIVE,0.970896602
+Get your first book for your new library.,1005587,1007947,NEUTRAL,0.564180374
+"Today, begin your new practice of setting goals.",1008067,1011712,NEUTRAL,0.568307936
+"Today, start clearing out a drawer of your new orderly desk.",1011862,1016242,NEUTRAL,0.749487817
+"Today, start eating an apple a day on your new health plan.",1016377,1020272,POSITIVE,0.643422782
+"Today, put some money in your new Investment for Fortune account.",1020455,1024877,NEUTRAL,0.827183306
+"Today, start reading with intensity for your new wealth of mind plan.",1025045,1029677,NEUTRAL,0.665438294
+"Today, write a postponed letter.",1029845,1032547,NEUTRAL,0.842757642
+"Today, make a delayed telephone call.",1032592,1035707,NEUTRAL,0.838199019
+"Today, pick up your camera and take a picture of something to start your new treasury of photographs.",1035860,1042372,NEUTRAL,0.579225361
+"Today, get some momentum going on your new commitment to the better life.",1042492,1047557,POSITIVE,0.928241432
+See how many activities you can pile on in this first day.,1047710,1051277,NEUTRAL,0.68199116
+Go all out.,1051445,1052567,POSITIVE,0.522383451
+Break away from the negative downward pull of gravity.,1052690,1055932,NEUTRAL,0.660134792
+Start the thrusters going.,1056097,1058025,NEUTRAL,0.736813068
+"Prove to yourself that waiting is over, hoping is past, and that faith and action have now taken charge.",1058537,1065577,NEUTRAL,0.578709483
+"It's a new day, a new beginning for your new life.",1065757,1069397,POSITIVE,0.939193308
+"With discipline, you can't believe the list of positive moves you can make in the first day of your new beginning.",1069580,1076737,POSITIVE,0.826689601
+"You've heard the words since you were in Sunday school, you have heard these professors remind you of them both in words of warning as well as words of encouragement and maybe even a few testimonies.",4362,20562,NEUTRAL,0.787099779
+"A counselor, a friend, a minister of music.",20712,25700,NEUTRAL,0.694719255
+"Whatever capacity you'll serve in on mission, field or here at home, you'll use these two words, and they are trust, God.",26812,39800,POSITIVE,0.566887796
+"Two single syllable words that you have heard forever, but you will discover as time passes how difficult they are to obey.",40537,57137,NEGATIVE,0.573762178
+Trust God.,58462,61625,POSITIVE,0.642242432
+"Of course, I have no way of knowing what the future holds for you.",62137,66050,NEUTRAL,0.550771713
+You may lose your home and everything in a fire.,67237,70100,NEGATIVE,0.894786119
+"You may lose your spouse to an early disease, detected but not cured.",71062,80012,NEGATIVE,0.850373089
+"You may lose your dreams, your hopes.",82312,85737,NEGATIVE,0.716595948
+You may lose a relationship that you have cultivated over the years.,85887,90875,NEGATIVE,0.613395929
+"All losses are painful, and you will be brought back over and over again to the words of Proverbs, chapter three, five and six.",91912,108350,NEUTRAL,0.535612702
+"I know you memorized them in vacation Bible school or when you were growing up at the knee of a godly, mother and or father.",109012,121562,NEUTRAL,0.786560059
+And your lips will move as I quote them trust in the Lord with all your heart and lean not to your own understanding.,122587,135362,NEUTRAL,0.750841498
+"In all your ways, acknowledge Him and he will make your paths straight.",136762,144212,POSITIVE,0.752451181
+"All your heart, all your ways.",144787,150125,NEUTRAL,0.707076609
+Trust.,150787,151550,NEUTRAL,0.64122045
+Trust.,153187,153950,NEUTRAL,0.64122045
+"Now, we have a problem with this because of several things.",155812,160100,NEGATIVE,0.88513726
+"First of all, we are to blame.",161287,163602,NEGATIVE,0.901045382
+Self sufficient.,163707,164987,NEUTRAL,0.594302773
+We have learned how to get ourselves out of jams rather than acknowledging.,166162,173457,NEUTRAL,0.632852614
+The jam has very well been either directed or permitted by our sovereign God to teach us.,173547,182450,POSITIVE,0.49898693
+"And by not trusting Him, we shortcircuit the test and go our own way, getting ourselves out of our own mess.",183412,193250,NEGATIVE,0.606363475
+We're too selfsufficient.,193987,195812,NEUTRAL,0.633941293
+Another reason we fail this test is because we're too quick to call on others.,196837,202025,NEGATIVE,0.924445093
+"We have a lot of very capable friends as life unfolds and you leave the school and you're involved in your church, your work of ministry, your realm of responsibility.",203212,217302,POSITIVE,0.855192244
+"You'll meet other people, many of them much smarter than you are, most of them richer than you are, better connected than you are.",217482,230150,POSITIVE,0.892486572
+"And some of them will become good friends, and they will become your crutch.",230812,236612,POSITIVE,0.50824064
+"They have connections, and when you're up against it, they'll get you through it.",237112,244175,NEUTRAL,0.623847842
+Another reason we don't trust is because we feel distant from the God of heaven.,245812,253187,NEGATIVE,0.856380284
+Don't feel too guilty about that.,255562,257317,NEUTRAL,0.673025131
+"So did Job, as Godly as he was.",257365,261050,POSITIVE,0.527190387
+"And yet Job said, in the midst of all of the loss, though he slay me, I will trust in Him.",262312,272542,NEUTRAL,0.531108439
+"Though he take me off this earth in the process, I leave trusting Him.",272590,279575,NEUTRAL,0.781188965
+I will trust him.,280912,282800,POSITIVE,0.777592421
+The fourth reason I would name is that we have cultivated the bad habit of worry.,286012,291587,NEGATIVE,0.731993735
+Many of you are much better at worrying than you are at trusting.,294412,298787,NEUTRAL,0.559753358
+"If you were to put together a worry list, it would outrun your prayer list.",299962,304700,NEUTRAL,0.739212394
+And you're worried right now about something.,306187,308750,NEGATIVE,0.595675707
+"Most likely it's related to something about your schoolwork, some course, some class, some test, or maybe your finances.",309337,322187,NEUTRAL,0.756180346
+You don't have enough money.,323437,325175,NEGATIVE,0.742581189
+I'll give you a word of encouragement you'll never have enough money so you're worried.,326212,331842,NEUTRAL,0.554459453
+Now you're getting good at it so you can carry that with you when you graduate because you won't have enough money then.,331902,339050,NEUTRAL,0.491503417
+So you're worried about that.,340912,342800,NEUTRAL,0.571829736
+And you do not trust God.,344362,347675,NEGATIVE,0.768453479
+See how practical it is?,348562,350450,POSITIVE,0.720591664
+"And if you think you're going to outgrow the problem, take it from this old guy today you won't ever outgrow it.",351037,360800,NEGATIVE,0.811874092
+It's like lust.,361837,363287,NEGATIVE,0.761233151
+"You never outgrow lust, you just learn to fake it.",364087,368675,NEGATIVE,0.573690891
+I remember attending a navigator conference when Lauren Sandy was president.,370237,374647,NEUTRAL,0.711839616
+We were at Glenarian.,374830,376362,NEUTRAL,0.871839464
+"They had a returned missionary, I think, 87, 88 year old gentleman who Lauren brought up to the platform and he's a longtime navigator.",376512,387342,NEUTRAL,0.840489864
+"And Lauren said, tell me Doc, so and so, when did you conquer lust?",387402,393812,NEUTRAL,0.692163706
+"The old man said, Well, Lauren hasn't happened yet.",395137,399650,NEUTRAL,0.628197074
+You'll never conquer worry.,401437,403937,NEGATIVE,0.539078176
+It's part of the flesh.,404812,406862,NEUTRAL,0.750705719
+You want to.,409912,411200,NEUTRAL,0.717752755
+"But the only way you will get through it so that you will learn from the test, is to trust.",412087,419542,POSITIVE,0.624537408
+"To trust, to put the worry on hold, to set it aside, deliberately shoving it away and saying, god, at this moment I rest in you and you alone.",419740,438737,POSITIVE,0.687549233
+"If you're married, God, help my spouse and me to trust you, to lean on you, to wait on you, to listen to you, to endure the test with you.",440587,458675,POSITIVE,0.608241737
+I put together a quick list of things that reveal how little we trust.,460387,467525,NEGATIVE,0.595768452
+"When you choose to worry, you do not trust.",469537,472775,NEGATIVE,0.756430924
+When you try to fix what is impossible you do not trust.,474562,479075,NEGATIVE,0.792752922
+When you hurry ahead and don't wait for the Lord to move and to change you do not trust.,480937,489425,NEUTRAL,0.488193244
+When you lie awake twisting and turning at night you do not trust.,491062,496100,NEGATIVE,0.884563088
+When you doubt biblical principles and promises that are right here in the book you love and study.,498112,505387,NEUTRAL,0.61381501
+You do not trust when you turn to others first for help you do not trust.,505525,514850,NEGATIVE,0.87437427
+When you listen to human counsel and give a higher priority to that than the principles you have just learned.,517012,524712,NEUTRAL,0.737461925
+You do not trust when you manipulate and maneuver situations you do not trust.,524787,531125,NEGATIVE,0.895658255
+"When you step in and take charge without praying and being led by the Spirit of God, you do not trust.",532612,542300,NEGATIVE,0.535523891
+When you cling to others in order to feel secure and needed and loved you do not trust the list goes on and on.,547312,557737,NEGATIVE,0.527131736
+"See how easy it is to live in the flesh, how easy it is to disobey trust in the Lord with all your heart.",557800,566450,NEUTRAL,0.514572263
+Wouldn't it be a great project over the Christmas season this year to think through ways that you can begin to trust God regardless.,566887,581987,POSITIVE,0.912966788
+Hopefully it'll be a project that you and a good friend or you and your mate can enter together.,584212,590300,POSITIVE,0.895747125
+What is it we do that keep us from trusting god?,590887,596525,NEGATIVE,0.690519929
+And how can we break that habit and watch god break through in ways that we would never have expected?,597487,609587,NEUTRAL,0.604598105
+Cynthia and I have a longtime friend who was raised with four brothers in southwest Texas.,612750,618475,NEUTRAL,0.877971649
+They were raised on a very poor ranch.,618975,623015,NEGATIVE,0.813009799
+They eked out a living.,623195,624780,NEUTRAL,0.568525016
+"One of the brothers wound up getting into Baylor, going on to UCLA law school and earning his degree in law.",624902,634155,NEUTRAL,0.926595271
+And it's since become a very fine attorney in the southern California area.,634202,638610,POSITIVE,0.854990125
+We've been friends since the mid 1970s.,638642,641562,NEUTRAL,0.600829661
+"One of his four brothers stayed at the ranch and developed it, cultivated it.",641925,647940,NEUTRAL,0.894673467
+"The other brothers moved away, as did our friend.",647957,650400,NEUTRAL,0.787477434
+"And the one who stayed, along with his wife, really turned the ranch into something much more successful through crops that worked, got cattle, bred them, sold them little by little, and kind of got on their feet and finally became pretty much financially stable.",650462,673075,POSITIVE,0.859524965
+"Then the fires of 2011 across Texas swept through their area, and they came to that ranch.",674250,683500,NEUTRAL,0.665545821
+"By now, they knew they would lose all the cattle.",683850,687695,NEGATIVE,0.566794872
+They simply opened the gate.,687785,689330,NEUTRAL,0.709650815
+"And amazingly, those animals nowhere to go.",689390,693012,NEUTRAL,0.5129776
+Usually nowhere to go to find shelter and safety.,693525,697310,NEUTRAL,0.708710253
+"And they fled, hundreds of them.",697430,700287,NEGATIVE,0.493153363
+"And they barely left, unable to get anything much of anything in their pickup.",701775,707555,NEGATIVE,0.649874687
+And they drove away.,707615,708990,NEUTRAL,0.565330565
+Came back a number of days later when allowed to enter this territory.,709157,715070,NEUTRAL,0.917366266
+And everything was melted.,715160,719125,NEUTRAL,0.50178051
+Everything.,720375,721137,NEUTRAL,0.550895452
+Even the metal roof on the shed on the barn had melted down and sort of peeled its way over.,721500,728670,NEGATIVE,0.615840673
+And what it landed on it kind of was that metal profile is everything is lost.,728747,736130,NEGATIVE,0.515997827
+"All possessions, all pictures.",736265,739825,NEUTRAL,0.676431775
+"Thankfully, no lives.",740700,742287,NEUTRAL,0.610877633
+"Strangely, the cattle got back and were clustered around in a herd around an enormous oak tree, and they were able to get them back.",742725,753255,NEUTRAL,0.641862035
+"Of course, the fence had burned, so that has to be rebuilt.",753302,756680,NEGATIVE,0.6922279
+"And they said to one another, we realized at that moment our faith would either kick into action or we would move far away from the god we had loved and served.",756740,773465,NEUTRAL,0.690464973
+They chose the former.,773570,776875,NEUTRAL,0.713533759
+They determined they would rebuild.,777375,781100,NEUTRAL,0.754397154
+"They're in the process right now, living with a brother, putting house and home back together, having lost it all.",781175,793212,NEUTRAL,0.518863559
+"And the lord taught me through my shameful response, he'll win this battle.",793800,801250,POSITIVE,0.581570566
+Trust him.,801975,803025,NEUTRAL,0.571638703
+Trust me.,803162,804237,POSITIVE,0.510976374
+Trust god.,804600,805737,POSITIVE,0.557386756
+Just to rest upon his promises.,808725,810850,NEUTRAL,0.775076628
+Just to know.,811950,813162,NEUTRAL,0.690807581
+Thus saith lord.,814125,815800,NEUTRAL,0.741891563
+Trust God.,816825,818112,POSITIVE,0.642242432
+"In January of 1968, the North Vietnamese army launched a surprise attack against the Americans.",162,10187,NEGATIVE,0.561637104
+This was the Tet Offensive.,10612,12362,NEUTRAL,0.52027458
+Tet is the celebration of the lunar new year.,13012,16717,POSITIVE,0.833762944
+And there was a tradition in Vietnam that had gone on for decades that there was never any fighting on Tet.,16915,23982,NEUTRAL,0.615625441
+"And yet, in 1968, the North Vietnamese generals decided to break with tradition with the hope that they could surprise the Americans, overwhelm them with force and bring a swift end to the Vietnam War.",24147,36950,NEUTRAL,0.539918303
+"They attacked over 125 targets across the country with over 85,000 troops.",38062,47012,NEGATIVE,0.823375881
+"Now, here's the amazing thing.",47362,49925,POSITIVE,0.913805544
+"The United States actually repelled every single attack, every single one.",50287,56032,NEUTRAL,0.579960942
+"And at the end of most of the major fighting, which was after about a week, the United States had lost fewer than a thousand troops.",56185,63747,NEUTRAL,0.637481034
+The North Vietnamese lost 350 of the 850 troops.,63942,69287,NEGATIVE,0.687293768
+"And if we look at the Vietnam War as a whole, we see that America lost 580 men and North Vietnam lost over 3 million people.",69862,79250,NEGATIVE,0.820480227
+And a close examination also reveals that America actually won nearly every major battle it fought.,79762,87287,POSITIVE,0.646508992
+"So it raises a very interesting question how do you win all the battles, decimate your enemy and lose the war?",87787,95450,NEUTRAL,0.646917045
+It raises new questions about how we understand the concept of winning and losing.,96187,102212,NEUTRAL,0.683138251
+"James Carson, a theologian from NYU wrote a little book called Finite and Infinite Games in which he talks about games and how we play them.",103012,112625,NEUTRAL,0.82821089
+"Basically, if you have at least two competitors, you have a game.",112987,116617,NEUTRAL,0.739650488
+And there are two types of games.,116740,118632,NEUTRAL,0.709098816
+There are finite games and there are infinite games.,118722,122087,NEUTRAL,0.663425505
+"Finite games are defined as known players, fixed rules and an agreed upon objective.",122587,129372,NEUTRAL,0.851372838
+Like football.,129492,130587,NEUTRAL,0.682169437
+We all agree with the rules.,130737,132027,NEUTRAL,0.740393102
+"Are we all agree whoever has more points at the end of the game is the winner, the game concludes and we all go home.",132057,138125,NEUTRAL,0.689015925
+Then you have an infinite game.,138937,140752,POSITIVE,0.549832404
+An infinite game is defined as known and unknown players.,140920,144962,NEUTRAL,0.801439404
+"The rules are changeable and the objective is to perpetuate the game, to keep the game in play.",145312,151100,NEUTRAL,0.796819508
+"When you put a finite player versus a finite player, the system is stable.",151837,156447,NEUTRAL,0.655496836
+Football is stable.,156567,157937,NEUTRAL,0.620435297
+"When you put an infinite player versus an infinite player, the system is also stable.",158587,163947,POSITIVE,0.580491006
+The Cold War was stable because we cannot have a winner or a loser.,164067,169122,NEUTRAL,0.578575313
+And so we both keep playing until one of the players runs out of the will or the resources to keep playing and then they drop out of the game.,169242,177350,NEGATIVE,0.701367557
+"Problems arise, however, when you pit a finite player versus an infinite player because a finite player is playing to win and an infinite player is playing to keep playing.",178387,188832,NEUTRAL,0.521237612
+And they make very different strategic choices.,188922,191622,NEUTRAL,0.763440251
+And invariably what happens is the finite player finds themselves in quagmire.,191742,196782,NEGATIVE,0.807707846
+They find themselves frustrated and running through the will and resources required for them to stay in the game.,196872,202850,NEGATIVE,0.778876603
+And this is what happened to american Vietnam.,203437,206682,NEGATIVE,0.757004142
+"America was fighting to win, and the Norwegian Vietnamese were fighting for their lives.",206847,211942,NEUTRAL,0.541586399
+A very different set of strategic choices were made.,212140,214597,NEUTRAL,0.837405205
+And it's not so much that America lost.,214630,217152,NEGATIVE,0.610731542
+It's that they ran out of the will or the resources to continue to stay in the game.,217257,221272,NEGATIVE,0.561068594
+And so they dropped out.,221305,222650,NEGATIVE,0.689081013
+So this gets me thinking.,223087,225050,NEUTRAL,0.799902976
+There's no such thing as winning global politics.,225637,229187,NEGATIVE,0.626215577
+"There's no such thing as winning governance, and there's definitely no such thing as winning business.",229687,237275,NEGATIVE,0.677002192
+"But when we listen to the language of too many leaders, they don't know the game we're in.",237862,244717,NEGATIVE,0.643505335
+They talk about being number one or being the best or beating their competition based on what?,244840,252172,NEUTRAL,0.722206354
+Based on what metric?,252355,253722,NEUTRAL,0.827571094
+Based on what time frame?,253842,255627,NEUTRAL,0.878912687
+These are infinite games.,255807,257382,NEUTRAL,0.563565195
+"And when we play with a finite mindset in an infinite game, there's a few very predictable things that happen.",257472,265025,NEGATIVE,0.56989032
+"Trust declines, cooperation declines, innovation declines.",265462,270807,NEGATIVE,0.710275829
+And eventually we run out of the will or the resources to play.,270897,274567,NEGATIVE,0.655932069
+"And in business, we call this bankruptcy or merger and acquisition.",274690,278537,NEUTRAL,0.773435235
+So I had a reallife experience that helped me see the difference between a finite player and an infinite player.,279337,286347,POSITIVE,0.675372005
+I spoke at an education summit for Apple.,286542,289937,POSITIVE,0.757387817
+I also spoke at an education summit for Microsoft.,290512,294512,POSITIVE,0.62899375
+"At the Microsoft summit, I would say 70% to 80% of the executives spent the majority of their presentations talking about how to beat Apple.",295462,307637,POSITIVE,0.544866681
+"At the Apple Summit, 100% of the executives spent 100% of their presentations talking about how to help teachers teach and how to help students learn.",308437,319175,POSITIVE,0.932563782
+One was obsessed with where they were going.,319612,321517,NEUTRAL,0.553761244
+One was obsessed with a vision.,321565,323262,NEUTRAL,0.533977985
+The other one was obsessed with beating their competition.,323337,325827,NEUTRAL,0.489812672
+Guess which one was in Quagmire.,326007,327792,NEUTRAL,0.819826186
+Guess which one was wasting will and resources.,327852,331637,NEGATIVE,0.677232325
+"So at the end of my talk at Microsoft, they gave me a gift.",332137,335997,POSITIVE,0.943652451
+They gave me the new Zoon.,336192,338457,NEUTRAL,0.512913406
+"When it was a thing, the Zune was Microsoft's response to the ipod.",338622,344162,NEUTRAL,0.797010243
+And this little piece of technology was absolutely spectacular.,345037,349862,POSITIVE,0.959789693
+It was brilliant.,350287,351342,POSITIVE,0.918954968
+It was beautifully designed.,351402,352677,POSITIVE,0.935781598
+"It was elegant, it worked flawlessly.",352707,354492,POSITIVE,0.942834496
+The user interface was intuitive.,354552,356687,POSITIVE,0.722521424
+"So at the end of my Apple talk, I'm sharing a taxi with a senior Apple executive employee, number 54 to be specific.",357337,364700,POSITIVE,0.735324085
+And I couldn't help myself.,365662,367207,NEUTRAL,0.53295058
+I had to stir the pot.,367360,368932,NEUTRAL,0.701280236
+"And I turned to him and I said, you know, Microsoft gave me their new Zune.",369085,374612,POSITIVE,0.570778251
+It is so much better than your ipod Touch.,375037,379250,POSITIVE,0.925677478
+"To which he responded, I have no doubt.",379837,383162,NEUTRAL,0.807304621
+And the conversation was over.,384187,385850,NEUTRAL,0.563957036
+Because the infinite player understands.,387337,390362,NEUTRAL,0.515903473
+"Sometimes you have the better product, and sometimes they have the better product.",390712,394507,POSITIVE,0.591123939
+"And sometimes you're ahead, and sometimes you're behind.",394660,397777,NEUTRAL,0.695986748
+And the goal is not to win.,397945,399637,NEGATIVE,0.500302613
+The goal is to outlast.,399775,401687,NEUTRAL,0.732673824
+And the only true competitor in the infinite game is ourselves.,402112,407687,NEUTRAL,0.64860177
+"The goal is to make our systems better this year than they were last year, to make our governance better this year than it was last year, to make our culture stronger this year than it was last year, to make the quality of our relationships and the level of trust better than it was last year.",408487,421882,POSITIVE,0.919200182
+That's the goal of the infinite player to outdo themselves.,421960,425375,NEUTRAL,0.655579805
+So this all raises a very interesting question.,426337,428975,POSITIVE,0.787193835
+"If too many leaders are leading with a finite mindset, and the reality is, so many of these games that we're actually playing in our infinite games, that means we have to learn how to change the way we lead to lead for the game we're actually in.",429337,444875,NEUTRAL,0.493012637
+So I boiled it down to five things of how to lead in the infinite game.,448162,452600,NEUTRAL,0.84726429
+We need to have a just cause.,453487,455375,NEUTRAL,0.77078408
+We need to have trusting teams.,456037,458612,NEUTRAL,0.671993494
+We need to have a worthy rival.,458962,462137,NEUTRAL,0.703332961
+We need to have a capacity for existential flexibility.,462562,466487,NEUTRAL,0.738080263
+And we need to have the courage to lead just cause.,466837,471725,NEUTRAL,0.607236803
+A just cause is a cause.,472987,474607,NEUTRAL,0.748167276
+So just we would be willing to sacrifice our interests in order to advance that cause.,474685,482150,NEUTRAL,0.59455806
+That could mean taking a job for less money.,482737,486412,NEUTRAL,0.583014429
+Because I believe in what we're doing here.,486475,489082,POSITIVE,0.852299631
+It happens very often that we're doing something we believe in and someone wants to bring us to their company.,489235,494767,POSITIVE,0.64095962
+"And they think that simply by sharing us with money, we'll leave.",494815,498247,NEGATIVE,0.53682667
+"But when we believe desperately in the work that we're doing, we easily turn down the better salary.",498430,505032,NEGATIVE,0.530288935
+That's a sacrifice in order to be a part of something we believe in.,505122,508507,NEUTRAL,0.693979204
+"Maybe working late hours or frequent business trips, being away from our families.",508660,513957,NEUTRAL,0.551335275
+We don't like these things.,514122,516337,NEGATIVE,0.938839078
+"But for some reason, it feels worth it.",516475,520162,POSITIVE,0.839314044
+It feels worth the sacrifice to be a part of something larger than ourselves.,520300,524067,POSITIVE,0.760673761
+And every leader with the capacity to lead for the infinite game offers their people a sense of just cause.,524202,532025,POSITIVE,0.647677004
+Steve Jobs famously believed that the individual should stand up to Big Brother.,532912,537962,NEUTRAL,0.565813899
+It wasn't about computers per se.,538387,540577,NEUTRAL,0.696244478
+It wasn't about design.,540670,542077,NEUTRAL,0.703236401
+But he saw the computer as the perfect tool to empower individuals to stand up to the status quo.,542245,548802,POSITIVE,0.551018238
+He imagined a world in which one day one person with a computer could compete against a corporation.,548907,556122,NEUTRAL,0.725769281
+"Well, that's the world we live in today.",556317,558322,NEGATIVE,0.699944437
+This is what his just cause was.,558505,560587,NEUTRAL,0.738113284
+And all the people who believed in that kind of individual power were drawn to Apple.,560650,566277,NEUTRAL,0.679055452
+They wanted to work there and they wanted to buy from Apple.,566307,568887,POSITIVE,0.499491245
+It's not an accident that creative people and young people were so drawn to the brand.,569037,573627,POSITIVE,0.797012091
+"They like the idea of standing up to Big Brother, to standing up to the status quo.",573732,578462,NEUTRAL,0.71017462
+"We must give our people a sense of just cause, a cause so just they would be willing to sacrifice in order to advance.",579112,586752,NEUTRAL,0.592879117
+"That infinite ideal, a vision of the world that does not yet exist.",586857,592337,NEUTRAL,0.629494667
+"Number two, we have to have trusting teams.",593287,598337,NEUTRAL,0.712049723
+"I was on a business trip in Las vegas, and they put me up at the Four Seasons.",599062,606327,NEUTRAL,0.767955482
+Beautiful hotel.,606432,607857,POSITIVE,0.96528393
+And one of the reasons it's a beautiful hotel is not simply because of the fancy bed.,608022,612742,POSITIVE,0.899440944
+Any hotel can buy a fancy bed.,612790,614707,POSITIVE,0.602117836
+"It's because of the people who work there that when they say hello to you, you get the distinct sense that they wanted to say hello, not that they were told to say hello.",614785,623182,NEUTRAL,0.643801153
+We're highly attuned social animals.,623335,625077,NEUTRAL,0.797701538
+We can tell a difference.,625107,626225,NEUTRAL,0.750758588
+They happened to have a coffee bar in the lobby.,626662,630522,NEUTRAL,0.712951779
+"And so one afternoon, I went to buy myself a cup of coffee.",630717,633972,NEUTRAL,0.766055524
+And the barista working that day was a young man named Noah.,634092,637712,NEUTRAL,0.867090225
+Noah was funny.,638062,639267,POSITIVE,0.745380163
+He was engaging.,639327,640482,POSITIVE,0.752514839
+I enjoyed buying a cup of coffee from him.,640572,642772,POSITIVE,0.964853823
+I stood there for far too long buying a cup of coffee just because I enjoyed talking to Noah.,642805,648312,NEUTRAL,0.485972017
+"So, as is my nature, I ask Noah, do you like your job?",648462,653722,NEUTRAL,0.864415586
+"And without skipping a beat, Noah says to me, I love my job.",653905,657800,POSITIVE,0.94094044
+"Now, in my line of business, that's significant.",658162,661542,POSITIVE,0.895883322
+Like is rational.,661677,663177,NEUTRAL,0.586357951
+I like the people.,663207,663892,POSITIVE,0.785734296
+I like the challenge.,663940,664752,POSITIVE,0.890951335
+I get paid well.,664782,665497,POSITIVE,0.577442944
+I like my job.,665530,666667,POSITIVE,0.932228327
+Love is emotional.,666790,668922,NEUTRAL,0.542674065
+It demonstrates an emotional connection to whatever we're doing.,669042,672022,POSITIVE,0.601920664
+Do you love your wife?,672130,673317,NEUTRAL,0.785769224
+I like her a lot.,673377,674750,POSITIVE,0.958018661
+"It's a different standard, right?",675712,678500,NEUTRAL,0.790097833
+"Notice that I love my job, so immediately I'm interested.",679087,683000,POSITIVE,0.969718575
+So I follow up.,683737,685147,NEUTRAL,0.838728845
+"I said to Noah, tell me specifically what the Four Seasons is doing that you would say to me, you love your job.",685255,693412,NEUTRAL,0.640042067
+"And again, without skipping a beat, noah said that throughout the day, managers will walk past him and ask him how he's doing.",693550,700942,NEUTRAL,0.846685529
+Ask him if there's anything that he needs to do his job better.,700990,704647,NEUTRAL,0.624379754
+"Not just his manager, any manager.",704830,707987,NEUTRAL,0.684893668
+"And then he said, I also work for a different hotel.",708637,712787,NEUTRAL,0.86315763
+And there the managers walk past me and catch me if I'm doing something wrong.,713512,718850,NEGATIVE,0.564170718
+There.,719212,719572,NEUTRAL,0.55097121
+They're always overbearing and trying to make sure that I make my numbers.,719605,722932,NEGATIVE,0.818171561
+"He says, there, I just like to get through the day, keep my head below the radar, and just collect my paycheck.",723010,729627,NEUTRAL,0.639580905
+"He said, only at the Four Seasons do I feel I can be myself.",729807,735650,NEUTRAL,0.673344851
+This is the exact same human being.,737137,739777,NEUTRAL,0.525171936
+And yet the level of performance will be completely different.,739945,744412,NEUTRAL,0.595595717
+"Not because of him, but because of the leadership environment in which he's working.",744550,749227,NEUTRAL,0.62582761
+"I get this question all the time, Simon.",749395,751767,NEUTRAL,0.712891936
+How do we get the most out of our people?,751827,754102,NEUTRAL,0.734479904
+They're not a towel that we ring them to see how much we can get out of them.,754270,758932,NEUTRAL,0.682380378
+The question is flawed.,759085,760962,NEGATIVE,0.60651648
+"The correct question is, what environment do I have to create?",761112,764467,NEUTRAL,0.709230781
+What do I have to do to help my people work at their natural best?,764515,769102,NEUTRAL,0.758832932
+That's called leadership.,769270,771102,NEUTRAL,0.548903167
+And when we can create a trusting team.,771282,774097,POSITIVE,0.532796741
+Teams in which people feel trusted and trusting.,774280,777297,POSITIVE,0.623782396
+What will happen is it makes them feel safe enough to raise their hand and say.,777492,782047,NEUTRAL,0.73817867
+I made a mistake.,782080,783287,NEGATIVE,0.834644198
+Or I'm having trouble at home and it's affecting my work.,784087,787775,NEGATIVE,0.835876167
+Or You've promoted me to a position that I don't know what I'm doing and I need more training.,788137,792575,NEGATIVE,0.851286173
+Or I need help.,793162,794962,NEUTRAL,0.492172867
+Or I'm scared.,795025,796412,NEGATIVE,0.580317914
+"If we do not have trusting teams, what we have is a group of people who show up to work every single day, lying, hiding, and baking.",797287,805572,NEGATIVE,0.920699954
+They hide all of the mistakes for fear of getting in trouble.,805692,808712,NEGATIVE,0.756218255
+They won't admit that they don't know what they're doing for fear that they'll be humiliated.,809437,814412,NEGATIVE,0.863975286
+They're certainly not going to say that they're scared or that they need help for fear that it will somehow reduce their value inside the organization.,815137,823092,NEGATIVE,0.681572676
+And eventually things will compound and break.,823227,826912,NEGATIVE,0.712472141
+We've seen what happens.,827050,828487,NEUTRAL,0.664714813
+"I know you've seen the news a few years ago when United Airlines dragged one of their customers off the plane with a broken nose, broken teeth, and a concussion.",828625,837812,NEGATIVE,0.944092691
+I feel sorry for every person who works on that plane.,840412,843867,NEGATIVE,0.95859158
+I feel sorry for the crew because every single one of them knew that that was the wrong thing to do.,843927,850027,NEGATIVE,0.95115006
+And yet none of them intervened because they feared getting in trouble or breaking the rules more than doing the right thing.,850120,860600,NEGATIVE,0.71644479
+This was not an anomaly.,861262,863247,NEUTRAL,0.696995914
+This did not happen overnight.,863367,865152,NEUTRAL,0.626833141
+It was not that crew.,865257,867072,NEUTRAL,0.619880915
+It was the culture in which that crew works.,867192,869662,NEUTRAL,0.823841512
+I had an experience many years before that started to show the evidence.,869800,875237,NEUTRAL,0.849860787
+"I was waiting to board a United Airlines plane on a business trip, and I witnessed a scene play out in front of me where one of the passengers attempted to board the plane before their group number was called, which, as we all know, is a serious crime.",875737,890987,NEGATIVE,0.815592349
+And that's exactly how the gate agent treated him.,892312,894892,NEGATIVE,0.594209671
+"Step aside, sir.",895015,895942,NEUTRAL,0.596659839
+I haven't called your group yet.,895990,897337,NEUTRAL,0.73102212
+"Please step aside and wait till I call your group, is how she talked to a paying customer.",897400,902000,NEGATIVE,0.511752486
+So I spoke up.,902437,904042,NEUTRAL,0.728469551
+"I said, Why do you have to talk to us that way?",904240,906232,NEGATIVE,0.699880004
+Why can't she talk to us like we're human beings?,906310,908592,NEGATIVE,0.645925105
+"And she looked me in the eye and said, sir, if I don't follow the rules, I could get in trouble or lose my job.",908727,915350,NEGATIVE,0.802093625
+All she revealed to me is that she was more concerned about herself than she was about her customer.,915712,921125,NEGATIVE,0.599874616
+Is that her leaders don't trust her to do the job for which she's been trained to do.,921487,926392,NEGATIVE,0.74594152
+She has no agency or control over the job that she does.,926515,930337,NEGATIVE,0.768041253
+And guess who suffers?,930475,932247,NEGATIVE,0.836279213
+Customer and company.,932442,934400,NEUTRAL,0.612832665
+The reason we like flying Virgin Atlantic or Southwest Airlines or Emirates or any of these other airlines is not because they have some magical formula to hire the best people.,934837,944377,POSITIVE,0.462292075
+"It's but the people who work there feel like they have agency, that they have the power to do their job the way they've been trained to do it and make the right decisions.",944545,954702,NEUTRAL,0.663013101
+And guess who benefits?,954882,956225,NEUTRAL,0.541674554
+Customer and company.,956662,958700,NEUTRAL,0.612832665
+"To keep playing in the infinite game, we have to have an environment in which people feel trusted and trusting.",959437,964932,POSITIVE,0.637638986
+"They feel that we trust them, and they trust us back.",965097,968287,NEUTRAL,0.534378886
+That is the responsibility of leaders.,968425,970637,NEUTRAL,0.750624001
+Leadership is not about being in charge.,971812,974037,NEUTRAL,0.589075327
+"It's about taking care of those in our charge and creating a place in which they can work at their natural best, and they will offer us their best ideas.",974112,981642,POSITIVE,0.854294479
+They will take risks.,981702,982707,NEUTRAL,0.771035194
+They will solve problems.,982797,984382,POSITIVE,0.504977584
+They will work together.,984460,985192,POSITIVE,0.649724841
+It's a magical thing.,985240,986675,POSITIVE,0.752133846
+"Number three, you have to have a worthy rival.",987262,991187,NEUTRAL,0.72836709
+There's somebody else who does what I do.,991687,994687,NEUTRAL,0.715272605
+"He writes books, he gives talks.",994750,996402,NEUTRAL,0.828530371
+His work is extremely well respected.,996507,998442,POSITIVE,0.933596373
+I am a big fan of his work.,998502,1000537,POSITIVE,0.97600764
+I also happen to hate him.,1000600,1002500,NEGATIVE,0.937910616
+It's nothing personal.,1003387,1004437,NEUTRAL,0.773052394
+He never did anything bad to me.,1004500,1006475,NEUTRAL,0.719957352
+It's just how I feel.,1006987,1008847,NEUTRAL,0.799493432
+I hate him.,1009030,1010225,NEGATIVE,0.969314456
+"And I will check my book rankings on the internet, and then I'll immediately check his book sales.",1010962,1018357,NEUTRAL,0.833681464
+"And if mine are ahead, I feel smug.",1018510,1021637,POSITIVE,0.862787068
+"And if his are ahead, I feel angry.",1022362,1025312,NEGATIVE,0.810622692
+"So one day, we were invited to speak on the same stage together.",1026112,1029157,POSITIVE,0.748944163
+And I don't mean him in the morning and me in the afternoon.,1029235,1032057,NEUTRAL,0.671207011
+I mean actually together.,1032147,1033852,NEUTRAL,0.810915649
+"We would be interviewed on the stage together, and the interviewer thought it would be fun if we introduce each other.",1034020,1042250,POSITIVE,0.919002116
+"So I went first, and I looked at him and I said, you make me very insecure.",1045262,1053012,NEGATIVE,0.799497902
+All of your strengths are all of my weaknesses.,1054337,1058047,NEUTRAL,0.677684546
+"And when your name comes up, it makes me uncomfortable.",1058242,1061712,NEGATIVE,0.933457673
+"And he turns to me and he said, funny, I feel the same about you.",1062362,1067400,POSITIVE,0.579417467
+The reason I hated him was nothing personal.,1068662,1070957,NEGATIVE,0.810685277
+It's because he reminded me of my weaknesses.,1071110,1074397,NEGATIVE,0.727125466
+And it was easier for me to take that energy and put it against him and be competitive than it was to take a hard look at myself and see where I can improve.,1074517,1083837,NEUTRAL,0.582319617
+And that is the value of a worthy rival.,1084937,1087147,NEUTRAL,0.64317143
+"By the way, we're best of friends now.",1087192,1088552,POSITIVE,0.936566174
+I stayed as house.,1088570,1089347,NEUTRAL,0.792253017
+I think he's great.,1089380,1090425,POSITIVE,0.962065637
+"It was a cathartic experience, but that is the value of arrival.",1091837,1096312,POSITIVE,0.614687502
+"Our rivals are the people who are as good or better than us at our own work, and their mere existence reveals to us our weaknesses.",1096462,1106587,NEGATIVE,0.56463325
+And the goal is not to try and beat them.,1106737,1109477,NEUTRAL,0.593834877
+The goal is to take a hard look at ourselves and see where we can improve.,1109645,1113877,POSITIVE,0.547306061
+"Competition is about winning, but rivalry is about advancing.",1114057,1118077,NEUTRAL,0.675924361
+"If we have a competitive attitude, then all we want to do is win the game.",1118257,1122872,POSITIVE,0.779137075
+"Which means it's like two runners, and one will trip the other one in order to win.",1122905,1128375,NEUTRAL,0.849184513
+"Yes, they will win the race, but they're still a slow runner.",1128737,1131712,NEUTRAL,0.550684392
+It's better to lose the race today and become stronger and stronger and stronger and stronger and wish them the best of luck.,1131862,1139257,POSITIVE,0.897556245
+And your rivalries can change depending on how well you do.,1139422,1142102,NEUTRAL,0.789485514
+"In the early days, IBM was Microsoft's worthy, was Apple's worthy rival.",1142120,1148527,POSITIVE,0.753113866
+"Rather apple were the pirates, and IBM represented the navy.",1148557,1152547,NEUTRAL,0.671763003
+And then IBM fell out of the game.,1152667,1154567,NEGATIVE,0.545774817
+And then it was Microsoft that represented the Navy.,1154690,1157092,NEUTRAL,0.757355094
+"I'm a Mac, I'm a PC, and then Microsoft fell out of the game.",1157152,1161167,NEGATIVE,0.617824912
+And now it's Google and Facebook that represent the thing that they stand apart from that helps us understand our own identity.,1161215,1169632,POSITIVE,0.658065975
+Who are your worthy rivals?,1169797,1171072,NEUTRAL,0.724757075
+"They can be individuals, they can be organizations, they can be nation states, people we admire and push us to be better versions of ourselves.",1171117,1178562,POSITIVE,0.760703444
+Next you have to have the capacity for existential flexibility.,1179587,1183887,NEUTRAL,0.809423506
+What does that mean?,1184312,1185750,NEUTRAL,0.773121297
+So Apple had already come up the success of the Apple One and the Apple II.,1188287,1193977,POSITIVE,0.946932852
+It's already a huge company.,1194157,1195472,POSITIVE,0.781744957
+It's already very famous and successful and they're working on their next big project.,1195505,1200287,POSITIVE,0.97698319
+"And then coincidentally at that time, around 1981, steve Jobs and some of his senior executives went on a tour of Xerox Park.",1200425,1208902,NEUTRAL,0.733424544
+And there Xerox showed them an innovation that they had come up with called the Graphic user interface.,1209082,1216552,NEUTRAL,0.518067479
+"And it would allow us to use a mouse to control the cursor on the screen, to click on folders and move them around to use the computer.",1216732,1226175,NEUTRAL,0.822065532
+"Prior to that you had to use, you had to know a computer language like Dos.",1226762,1230987,NEUTRAL,0.750466228
+"And remember Steve Jobs'vision, remember his just cause, which is to empower the individual to stand up to the status quo.",1231712,1238527,POSITIVE,0.491472781
+"And when he saw this amazing innovation called the Graphic User Interface, he immediately saw that this was a way more powerful way to get more people to use a computer because it was so much simpler and easier to use.",1238707,1252517,POSITIVE,0.977957785
+"So as they're leaving Xerox, he says to his people, we have to invest in this.",1252640,1258067,NEUTRAL,0.818952858
+And his people say we can't.,1258265,1261147,NEGATIVE,0.495901018
+"One of the voices of reason said, Steve, we can't.",1261342,1263877,NEUTRAL,0.620792687
+We've already invested countless man hours and millions of dollars in an entirely different strategic direction.,1263982,1271122,NEUTRAL,0.608177602
+"If we reinvest in the graphic user interface, we will blow up our own company.",1271242,1277250,POSITIVE,0.699586689
+"To which Jobs actually said, better we should blow it up than someone else.",1277612,1282950,NEUTRAL,0.463804722
+"That decision was the Macintosh, a computer platform so profound that the entire software of Windows is designed to work like a Macintosh.",1283687,1293307,POSITIVE,0.708949625
+It literally changed the world.,1293322,1295537,POSITIVE,0.836677134
+And the reason we all have a computer at home and at work is because they're so easy to use.,1295600,1301175,POSITIVE,0.830567181
+That's existential flexibility.,1301687,1304137,NEUTRAL,0.773010075
+It's the ability to make a profoundly different strategic shift because we find a better way to advance our cause.,1304212,1313957,POSITIVE,0.751026928
+"And even if we have invested in one direction, this is better.",1314110,1318097,POSITIVE,0.809902489
+And for the person who makes the existential flex to the outside world it will look like you're crazy.,1318280,1324667,NEGATIVE,0.644670784
+Why would you abandon something that's working?,1324865,1327067,NEGATIVE,0.47816503
+"But to the person who makes the existential flex because they're so driven by cause, they perceive the risk of staying in the path that they're on, that it is a much smaller risk.",1327190,1338547,NEUTRAL,0.679867148
+It's the obvious thing that they have to do to adjust.,1338592,1340902,NEUTRAL,0.7204445
+Kodak did the opposite.,1341007,1342812,NEUTRAL,0.547148943
+"George Eastman, the founder of Kodak, had a just cause about democratizing photography.",1344287,1348492,NEUTRAL,0.739119291
+And everything the company did was about making photography simpler and simpler and simpler.,1348552,1352542,POSITIVE,0.684001267
+"And in 1975, the company invented the digital camera, and they suppressed the technology for fear that it would cannibalize film sales.",1352602,1361625,NEGATIVE,0.501011848
+They knew that they had about ten years before someone else would figure it out.,1362362,1365422,NEUTRAL,0.596050024
+"And over the course of those ten years, they did nothing.",1365455,1369200,NEGATIVE,0.73210597
+"And sure enough, more companies started to introduce digital technology.",1370087,1374272,POSITIVE,0.666883528
+"In fact, Kodak made billions of dollars from the royalties they got from their patents for the digital technology.",1374455,1382432,NEUTRAL,0.598359823
+"And when those patents ran out, they went bankrupt.",1382510,1386172,NEGATIVE,0.717384934
+"Because if you're not willing to blow up your own company, the market will blow it up for you.",1386367,1389902,NEGATIVE,0.788557112
+Existential flexibility is the capacity to make a significant strategic shift because you find a better way to advance your cause.,1389995,1397447,POSITIVE,0.691093206
+"And only infinite players have that capacity, which means everybody else runs out of time and money.",1397555,1402575,NEGATIVE,0.558232307
+"Finally, you have to have the courage to lead.",1403237,1406025,POSITIVE,0.502760947
+Everything that I've told you today is unbelievably difficult to be caused.,1406462,1412152,NEGATIVE,0.804722369
+"Driven in a world where all of the pressures on us are short term, is incredibly difficult.",1412182,1417487,NEGATIVE,0.809463441
+"For those of you who work in government, you're not as used to being short term oriented.",1417625,1423477,NEGATIVE,0.690793753
+"It's more longterm oriented, and it is about serving the greater good.",1423507,1426232,POSITIVE,0.8298136
+"But for business, all the pressures from Wall Street, all the incentive structures are all about nearterm, nearterm, nearterm.",1426310,1433092,NEUTRAL,0.741889119
+"And I would contend that one of the reasons government and business sometimes struggle to actually work well together is because one is thinking extremely long term and thinking about the greater good, and the other is thinking extremely short term and thinking what's good for me?",1433152,1446750,NEGATIVE,0.562251329
+And the problem is that those are different attitudes of working together.,1447187,1450772,NEGATIVE,0.658118248
+"And in my experience, government keeps looking to business to learn how to do things.",1450880,1455737,NEUTRAL,0.542024732
+And I would challenge businesses to start looking at government to learn how to do things.,1455800,1460117,NEUTRAL,0.791643858
+That may be a longterm mindset in thinking about how we devote our lives to a life of service which can still be extremely profitable.,1460315,1468192,POSITIVE,0.768882096
+The most infinite organizations are some of the most profitable.,1468327,1472167,POSITIVE,0.857456625
+"Apple, Southwest Airlines, Patagonia, Virgin these are incredibly infinite thinkers, and they're some of the most profitable companies in their industries because of their cause, because of their teams, because of their ability to innovate.",1472227,1485622,POSITIVE,0.974750817
+This takes tremendous courage to lead in a way in which the vast majority of people are leading in a different way.,1485817,1492607,POSITIVE,0.572706103
+"It's about challenging conventional mindsets, about leadership, which all raises the final question what does it mean to live an infinite life?",1492685,1502625,NEUTRAL,0.683207154
+"Clearly, our lives are finite.",1503287,1505842,NEGATIVE,0.755414009
+"We're born, we die.",1505902,1507252,NEUTRAL,0.59852767
+But life is infinite.,1507357,1509987,POSITIVE,0.699717522
+"We come, we go.",1510637,1511807,NEUTRAL,0.71604538
+"And the game continues with us, without us.",1511885,1514687,NEUTRAL,0.772490561
+"Which means every single one of us has the choice of how we choose to live our lives, how we choose to lead our organizations.",1514825,1521337,NEUTRAL,0.810120106
+"We can lead with a finite mindset, try and make more money than our friends, try and get ahead faster than everybody else, try and achieve more power than anybody else.",1521412,1529747,POSITIVE,0.603767395
+"And when we die, we take none of it with us.",1529780,1532400,NEGATIVE,0.587424576
+But the choice to live an infinite life means we choose to build an organization that will be better off because we work there.,1533287,1540457,POSITIVE,0.811632931
+We will leave it in better shape than we found it.,1540535,1543157,POSITIVE,0.824822247
+"It means to be the kind of friend and leader to others, that they will be better because we were in their lives.",1543310,1550132,POSITIVE,0.862423241
+It means we will literally live on beyond ourselves.,1550285,1553337,NEUTRAL,0.638273299
+It's just a choice whether we choose to live with an infinite mindset or a finite mindset.,1553987,1560012,NEUTRAL,0.791748166
+Thank you very much.,1561112,1561900,POSITIVE,0.959963024
